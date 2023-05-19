@@ -1,7 +1,7 @@
 package testes;
 
-import main.Computador;
-import main.Informatica;
+import main.atividade.Computador;
+import main.atividade.Informatica;
 import org.junit.Test;
 
 import java.util.ArrayList;

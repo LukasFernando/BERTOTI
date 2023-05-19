@@ -1,6 +1,6 @@
 package testes;
 
-import main.Computador;
+import main.atividade.Computador;
 
 public class ComputadoresSalvos {
     // Criando varios computadores para usar nos testes

@@ -1,8 +1,8 @@
 package testes;
 
-import main.Computador;
-import main.Estoque;
-import main.Informatica;
+import main.atividade.Computador;
+import main.atividade.Estoque;
+import main.atividade.Informatica;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -35,8 +35,8 @@ public class TesteManual {
         listaComputadores.add(comp_4);
         listaComputadores.add(comp_5);
 
-//        Testar a classe main.Informatica
-        System.out.println("Iniciando o teste da classe main.Informatica...");
+//        Testar a classe main.java.Informatica
+        System.out.println("Iniciando o teste da classe main.java.Informatica...");
         Informatica informatica_1 = new Informatica(listaComputadores);
         System.out.println("Classe instanciada!");
         System.out.println("Criando um Map com as infornações de um computador para pode fazer uma solicitação...");
@@ -49,8 +49,8 @@ public class TesteManual {
         System.out.println("Solicitação concluida!! Imprimido as informações da solicitação...");
         informatica_1.imprimirSolicitacoesComputador();
 
-//        Testar a classe main.Estoque
-        System.out.println("Chamando a classe main.Estoque e passando os parametro de lista de computadores");
+//        Testar a classe main.java.Estoque
+        System.out.println("Chamando a classe main.java.Estoque e passando os parametro de lista de computadores");
         Estoque estoque = new Estoque();
         System.out.println("Adicionando uma lista de computadores no estoque");
         estoque.adicionarComputadores(listaComputadores);
@@ -60,7 +60,7 @@ public class TesteManual {
         System.out.println("Imprimindo as informações do computador que foi buscado pelo id = "+id);
         comp.imprimirTodasInformcoes();
 
-//        Testar a classe main.Informatica metodo solicitarNovoManutencao e imprimirSolicitacoesManutencao
+//        Testar a classe main.java.Informatica metodo solicitarNovoManutencao e imprimirSolicitacoesManutencao
         System.out.println("\nUsando a instancia informatica_1 para solicitar Manutenção");
         Map<String, String> manutencao = new HashMap<>();
         manutencao.put("Motivo", "O computador não esta ligando");
