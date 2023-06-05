@@ -13,15 +13,15 @@ Análise de Requisitos:
   A programação está mais focada em traduzir os requisitos em código, ou seja, na implementação do software com base nos requisitos definidos.
 
 Design de Software: 
-  A Engenharia de Software envolve a criação de uma arquitetura de software sólida e eficiente. Isso inclui a definição das diferentes camadas do sistema, o design de interfaces, a escolha de padrões de design e a definição da estrutura geral do software. 
+  A Engenharia de Software envolve a criação de uma arquitetura de software sólida e eficiente. Isso inclui a definição das diferentes camadas do sistema, o design de interfaces, 
+    a escolha de padrões de design e a definição da estrutura geral do software. 
   Ja a programação está mais relacionada à implementação desses designs, ou seja, traduzir as decisões arquiteturais em código funcional.
 
 Testes de Software: 
   A Engenharia de Software inclui atividades de teste para garantir a qualidade do software desenvolvido. Isso envolve a criação de casos de teste, a execução de testes e a depuração de problemas identificados. 
-  A programação também pode envolver testes unitários, mas a Engenharia de Software vai além disso, abordando testes de integração, testes de aceitação e outros tipos de testes para garantir a robustez e a confiabilidade do software.
+  A programação também pode envolver testes unitários, mas a Engenharia de Software vai além disso, abordando testes de integração e outros tipos de testes para garantir a qualidade e confiabilidade do software.
 
 Gerenciamento de Projetos: 
-  A Engenharia de Software envolve o gerenciamento de projetos de desenvolvimento de software, incluindo o planejamento, a atribuição de recursos, o monitoramento do progresso e o controle do cronograma. 
-  Essas atividades estão fora do escopo da programação, que se concentra apenas na implementação do software de acordo com as especificações fornecidas.
-
+  A Engenharia de Software envolve o gerenciamento de projetos, incluindo o planejamento, a atribuição de recursos, o monitoramento do progresso e o controle do cronograma. 
+  Essas atividades não se aplica ao time de desenvolvimento, que foca mais na implementação do software de acordo com as especificações fornecidas.
 
