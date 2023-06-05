@@ -1,12 +1,11 @@
 Diferença entre Engenharia de Software e Programação:
 
-Programação é o ato de criar um software com uma ou mais linguagens de programação. 
-Então é pessoa esta responsavel por desenvolver para que no fim o produto (software) 
-esteja com as funcionalidades que era esperado.
-
-Ja engenharia de softeware olha para todo o software e não apenas para o desenvolvimento, 
-ou seja, o engenheiro tem que conhecer toda a parte tecnica do sistema (back-end front-end),
-mas também na parte de negocio.
+A Programação é uma disciplina dentro da Engenharia de Software. Ela se concentra na criação de software com uma ou mais linguagens de programação. 
+Então os programadores são responsáveis por traduzir algoritmos e lógica em instruções compreensíveis para o computador. 
+Eles escrevem linhas de código para criar funcionalidades, resolver problemas e construir sistemas de software.
+Ja engenharia de softeware envolve todo o ciclo do desenvolvimento de software, olhando para todo o software e não apenas para o desenvolvimento, 
+ou seja, o engenheiro tem que conhecer toda a parte tecnica do sistema (back-end front-end), design de software, gerenciamento de projetos, 
+parte de negocio (análise de requisitos), e os princípios e práticas de engenharia para projetar, desenvolver, testar e manter sistemas de software de maneira eficiente e confiável para o cliente.
 
 
 
