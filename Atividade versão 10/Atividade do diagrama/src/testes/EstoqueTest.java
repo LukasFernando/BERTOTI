@@ -14,7 +14,7 @@ public class EstoqueTest {
         // Pegando os computadores
         ComputadoresSalvos compParaUsar = new ComputadoresSalvos();
 
-        // Guardando os Objetos em Informatica e em Lista
+        // Criando duas listas de computadores
         ArrayList<Computador> lista1 = new ArrayList<>();
         lista1.add(compParaUsar.comp_1);
         lista1.add(compParaUsar.comp_2);
@@ -27,14 +27,20 @@ public class EstoqueTest {
         lista2.add(compParaUsar.comp_8);
         lista2.add(compParaUsar.comp_9);
         lista2.add(compParaUsar.comp_10);
+
+        //Criando uma informatica para adicionar no estoque
         Informatica informatica = new Informatica(lista1);
 
-        // Salvando no Estoque
+        // Criando um estoque
         Estoque estoque = new Estoque();
-        estoque.adicionarComputadores(informatica);
-        assertEquals("Erro: A quantidade de Computadores esta diferente", informatica.contarComputadores(), estoque.listaDeComputadores.size());
-        estoque.adicionarComputadores(lista2);
-        assertEquals("Erro: A quantidade de Computadores esta diferente", lista2.size() + informatica.contarComputadores(), estoque.listaDeComputadores.size());
+
+        // Adicionando uma informatica no estoque
+        estoque.adicionarComputadoresNoEstoque(informatica);
+        assertEquals("Erro: A quantidade de Computadores esta diferente", informatica.contarComputadoresNaInformatica(), estoque.contarComputadoresNoEstoque());
+
+        // Adicionando uma lista de computadores no estoque
+        estoque.adicionarComputadoresNoEstoque(lista2);
+        assertEquals("Erro: A quantidade de Computadores esta diferente", lista2.size() + informatica.contarComputadoresNaInformatica(), estoque.contarComputadoresNoEstoque());
 
         // Pegando um Computador do Estoque
         String id = "2";

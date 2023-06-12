@@ -39,28 +39,26 @@ public class TesteManual {
         novoComputador.put("ssd", "256");
         System.out.println("Fazendo uma solicitação de um novo computador");
         informatica_1.solicitarNovoComputador(novoComputador);
-        System.out.println("Solicitação concluida!! Imprimido as informações da solicitação...");
-        informatica_1.imprimirSolicitacoesComputador();
 
 //        Testar a classe main.Estoque
         System.out.println("Chamando a classe main.Estoque e passando os parametro de lista de computadores");
         Estoque estoque = new Estoque();
         System.out.println("Adicionando uma lista de computadores no estoque");
-        estoque.adicionarComputadores(listaComputadores);
+        estoque.adicionarComputadoresNoEstoque(listaComputadores);
         String id = "1";
         System.out.println("Pegando o Objeto computador do estoque que tem o id = "+id);
-        Computador comp = estoque.pegarComputador(id);
-        System.out.println("Imprimindo as informações do computador que foi buscado pelo id = "+id);
-        comp.imprimirTodasInformcoes();
+        Computador comp = estoque.procurarComputadorNoEstoque(id);
+        System.out.println("Imprimindo o nome e a marca do computador que foi buscado pelo id = "+id);
+        System.out.println("nome:  "+comp.getNome()+"\nmarca:  "+comp.getMarca());
 
 //        Testar a classe main.Informatica metodo solicitarNovoManutencao e imprimirSolicitacoesManutencao
         System.out.println("\nUsando a instancia informatica_1 para solicitar Manutenção");
         Map<String, String> manutencao = new HashMap<>();
         manutencao.put("Motivo", "O computador não esta ligando");
-        manutencao.put("Id do computador", informatica_1.pegarTodosComputadores().get(0).getId());
+        manutencao.put("Id do computador", informatica_1.pegarComputadoresDaInformatica().get(0).getId());
         informatica_1.solicitarManutencao(manutencao);
         System.out.println("Manutenção solicitada!");
         System.out.println("Imprimindo todas as manutenções...");
-        informatica_1.imprimirSolicitacoesManutencao();
+
     }
 }

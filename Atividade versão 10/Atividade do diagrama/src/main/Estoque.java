@@ -3,22 +3,26 @@ package main;
 import java.util.ArrayList;
 
 public class Estoque {
-    public ArrayList<Computador> listaDeComputadores = new ArrayList<>();
+    private final ArrayList<Computador> listaDeComputadores = new ArrayList<>();
 
-    public void adicionarComputadores(ArrayList<Computador> lista){
+    public void adicionarComputadoresNoEstoque(ArrayList<Computador> lista){
         listaDeComputadores.addAll(lista);
     }
 
-    public void adicionarComputadores(Informatica informatica){
-        listaDeComputadores.addAll(informatica.pegarTodosComputadores());
+    public void adicionarComputadoresNoEstoque(Informatica informatica){
+        listaDeComputadores.addAll(informatica.pegarComputadoresDaInformatica());
     }
 
-    public Computador pegarComputador(String id){
+    public Computador procurarComputadorNoEstoque(String id){
         for (Computador comp : listaDeComputadores){
             if (comp.getId().equals(id)){
                 return comp;
             }
         }
         return null;
+    }
+
+    public int contarComputadoresNoEstoque(){
+        return listaDeComputadores.size();
     }
 }
