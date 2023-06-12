@@ -21,14 +21,11 @@ public class Informatica {
     }
 
     private Computador pegarComputador(String id){
-//        try{
         for (Computador comp : this.listaDeComputadores) {
             if (comp.getId().equals(id)) {
                 return comp;
             }
         }
-//        }
-//        catch (Exception ignored){}
         return null;
     }
 

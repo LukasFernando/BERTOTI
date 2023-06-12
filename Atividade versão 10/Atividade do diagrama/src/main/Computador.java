@@ -16,11 +16,11 @@ public class Computador {
     }
 
     public void imprimirTodasInformcoes(){
-        System.out.println("id" + this.id);
-        System.out.println("nome" + this.nome);
-        System.out.println("marca" + this.marca);
-        System.out.println("ram" + this.ram);
-        System.out.println("ssd" + this.ssd);
+        System.out.println("id: " + this.id);
+        System.out.println("nome: " + this.nome);
+        System.out.println("marca: " + this.marca);
+        System.out.println("ram: " + this.ram);
+        System.out.println("ssd: " + this.ssd);
     }
 
     public String getId(){

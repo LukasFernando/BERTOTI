@@ -3,7 +3,7 @@ package main;
 import java.util.ArrayList;
 
 public class Estoque {
-    ArrayList<Computador> listaDeComputadores = new ArrayList<>();
+    public ArrayList<Computador> listaDeComputadores = new ArrayList<>();
 
     public void adicionarComputadores(ArrayList<Computador> lista){
         listaDeComputadores.addAll(lista);
