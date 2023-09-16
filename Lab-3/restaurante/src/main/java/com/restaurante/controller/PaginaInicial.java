@@ -8,13 +8,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @Controller
 @RequestMapping
 public class PaginaInicial {
-    @GetMapping("/inicio")
+    @GetMapping("")
     String getPaginaInicial2(){
         return "paginaInicial";
-    }
-
-    @GetMapping
-    String getPaginaInicial(){
-        return "teste";
     }
 }
