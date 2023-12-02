@@ -1,124 +1,38 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="pt-br" xmlns:th="http://thymeleaf.org">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Restaurante Delícia</title>
     <link rel="stylesheet" href="/css/paginaInicial.css">
+<!--    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">-->
 </head>
 <body>
 <header>
     <h1>Restaurante Delícia</h1>
     <p>Sabores incríveis à sua espera</p>
+    <a href="http://localhost:8080/cadastro" class="link link-para-cadastro"> Adicione um prato aqui </a>
 </header>
 <div class="menu-botoes">
-    <div class="todos-botoes">
-        <div>
-            <button onclick="adicionarPrato()"> Adicionar prato</button>
-        </div>
-    </div>
     <div class="container">
-        <div class="menu-card">
+        <div th:each="card : ${listFood}" class="menu-card">
             <div class="card-inner">
-                <h3 class="nome-prato">Prato 1</h3>
-                <img src="/images/img.png" alt="Prato 1">
-                <div class="nome-preco-prato">
-                    <p class="preco">Preço: R$ XX,XX</p>
+                <h3 class="nome-prato" th:text="${card.name}"></h3>
+                <img th:src="${card.image}" alt="Prato 1">
+                <div class="preco-prato">
+                    <p class="preco">R$</p>
+                    <p class="preco" th:text="${card.price}"></p>
                 </div>
             </div>
             <div class="card-inner card-back">
-                <p class="igredientes-descricao">Igredientes</p>
-                <p class="descricao">Descrição do prato 1. Ingredientes, sabores, etc.</p>
-                <p class="descricao">Descrição do prato 1. Ingredientes, sabores, etc.</p>
-            </div>
-        </div>
-        <div class="menu-card">
-            <div class="card-inner">
-                <h3 class="nome-prato">Prato 1</h3>
-                <img src="/images/img.png" alt="Prato 1">
-                <div class="nome-preco-prato">
-                    <p class="preco">Preço: R$ XX,XX</p>
-                </div>
-            </div>
-            <div class="card-inner card-back">
-                <p class="igredientes-descricao">Igredientes</p>
-                <p class="descricao">Descrição do prato 1. Ingredientes, sabores, etc.</p>
-                <p class="descricao">Descrição do prato 1. Ingredientes, sabores, etc.</p>
-            </div>
-        </div>
-        <div class="menu-card">
-            <div class="card-inner">
-                <h3 class="nome-prato">Prato 1</h3>
-                <img src="/images/img.png" alt="Prato 1">
-                <div class="nome-preco-prato">
-                    <p class="preco">Preço: R$ XX,XX</p>
-                </div>
-            </div>
-            <div class="card-inner card-back">
-                <p class="igredientes-descricao">Igredientes</p>
-                <p class="descricao">Descrição do prato 1. Ingredientes, sabores, etc.</p>
-                <p class="descricao">Descrição do prato 1. Ingredientes, sabores, etc.</p>
-            </div>
-        </div>
-        <div class="menu-card">
-            <div class="card-inner">
-                <h3 class="nome-prato">Prato 1</h3>
-                <img src="/images/img.png" alt="Prato 1">
-                <div class="nome-preco-prato">
-                    <p class="preco">Preço: R$ XX,XX</p>
-                </div>
-            </div>
-            <div class="card-inner card-back">
-                <p class="igredientes-descricao">Igredientes</p>
-                <p class="descricao">Descrição do prato 1. Ingredientes, sabores, etc.</p>
-                <p class="descricao">Descrição do prato 1. Ingredientes, sabores, etc.</p>
-            </div>
-        </div>
-        <div class="menu-card">
-            <div class="card-inner">
-                <h3 class="nome-prato">Prato 1</h3>
-                <img src="/images/img.png" alt="Prato 1">
-                <div class="nome-preco-prato">
-                    <p class="preco">Preço: R$ XX,XX</p>
-                </div>
-            </div>
-            <div class="card-inner card-back">
-                <p class="igredientes-descricao">Igredientes</p>
-                <p class="descricao">Descrição do prato 1. Ingredientes, sabores, etc.</p>
-                <p class="descricao">Descrição do prato 1. Ingredientes, sabores, etc.</p>
-            </div>
-        </div>
-        <div class="menu-card">
-            <div class="card-inner">
-                <h3 class="nome-prato">Prato 1</h3>
-                <img src="/images/img.png" alt="Prato 1">
-                <div class="nome-preco-prato">
-                    <p class="preco">Preço: R$ XX,XX</p>
-                </div>
-            </div>
-            <div class="card-inner card-back">
-                <p class="igredientes-descricao">Igredientes</p>
-                <p class="descricao">Descrição do prato 1. Ingredientes, sabores, etc.</p>
-                <p class="descricao">Descrição do prato 1. Ingredientes, sabores, etc.</p>
-            </div>
-        </div>
-        <div class="menu-card">
-            <div class="card-inner">
-                <h3 class="nome-prato">Prato 1</h3>
-                <img src="/images/img.png" alt="Prato 1">
-                <div class="nome-preco-prato">
-                    <p class="preco">Preço: R$ XX,XX</p>
-                </div>
-            </div>
-            <div class="card-inner card-back">
-                <p class="igredientes-descricao">Igredientes</p>
-                <p class="descricao">Descrição do prato 1. Ingredientes, sabores, etc.</p>
-                <p class="descricao">Descrição do prato 1. Ingredientes, sabores, etc.</p>
+                <p class="igredientes-descricao">Descrição</p>
+                <p class="descricao" th:text="${card.description}"></p>
             </div>
         </div>
     </div>
 </div>
 <script src="/js/card.js"></script>
 <script src="/js/events.js"></script>
+<!--<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>-->
 </body>
 </html>

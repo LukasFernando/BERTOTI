@@ -1,12 +1,14 @@
 package com.restaurante.controller;
 
 
+import com.restaurante.food.DTOFood;
 import com.restaurante.food.Food;
 import com.restaurante.food.FoodRepository;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
@@ -15,12 +17,18 @@ import java.util.List;
 public class PaginaInicial {
     @Autowired
     private FoodRepository foodRepository;
-    @GetMapping("")
-    String getPaginaInicial2(){
+    /*
+    private Long id;
+    private String name;
+    private String description;
+    private double ;
+    private String imapricege;
+     */
 
+    @GetMapping
+    String getPaginaInicial2(Model model){
         List<Food> listFood = foodRepository.findAll();
-
-
+        model.addAttribute("listFood", listFood);
         return "paginaInicial";
     }
 }
