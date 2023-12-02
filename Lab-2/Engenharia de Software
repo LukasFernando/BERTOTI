@@ -1,0 +1,33 @@
+Diferença entre Engenharia de Software e Programação:
+
+A Programação é uma disciplina dentro da Engenharia de Software. A Programação tem o na criação de software com uma ou mais linguagens de programação. 
+Então os programadores são responsáveis por traduzir algoritmos e lógica em instruções compreensíveis para o computador. 
+Eles escrevem linhas de código para criar funcionalidades, resolver problemas e construir sistemas de software.
+Ja engenharia de softeware envolve todo o ciclo do desenvolvimento de software, olhando para todo o software e não apenas para o desenvolvimento, 
+ou seja, o engenheiro tem que conhecer toda a parte tecnica do sistema (back-end front-end), design de software, gerenciamento de projetos, 
+parte de negocio (análise de requisitos), e os princípios e práticas de engenharia para projetar, desenvolver, testar e manter sistemas de software de maneira eficiente e confiável para o cliente.
+
+Exemplos:
+Análise de Requisitos: 
+  O processo de análise de requisitos envolve entender as necessidades dos usuários e clientes, identificar os objetivos do sistema e definir os requisitos funcionais e não funcionais.
+  A programação está mais focada em traduzir os requisitos em código, ou seja, na implementação do software com base nos requisitos definidos.
+
+Design de Software: 
+  A Engenharia de Software envolve a criação de uma arquitetura de software sólida e eficiente. Isso inclui a definição das diferentes camadas do sistema, o design de interfaces, 
+    a escolha de padrões de design e a definição da estrutura geral do software. 
+  Ja a programação está mais relacionada à implementação desses designs, ou seja, traduzir as decisões arquiteturais em código funcional.
+
+Testes de Software: 
+  A Engenharia de Software inclui atividades de teste para garantir a qualidade do software desenvolvido. Isso envolve a criação de casos de teste, a execução de testes e a depuração de problemas identificados. 
+  A programação também pode envolver testes unitários, mas a Engenharia de Software vai além disso, abordando testes de integração e outros tipos de testes para garantir a qualidade e confiabilidade do software.
+  
+Arquitetura de Software: 
+  A Engenharia de Software envolve a definição da arquitetura de software, que é a estrutura geral e a organização do sistema. Isso inclui a seleção de padrões arquiteturais, 
+    componentes, interfaces e a definição da interação entre eles. 
+  Ja na programação, isso se aplica na hora de desenvolver o software, mas a Engenharia de Software é responsável por projetar a arquitetura antes da implementação. 
+    Então o desenvolvimento usa as ferramentas que a Engenharia escolheu mas não as escolhe.
+
+Gerenciamento de Projetos: 
+  A Engenharia de Software envolve o gerenciamento de projetos, incluindo o planejamento, a atribuição de recursos, o monitoramento do progresso e o controle do cronograma. 
+  Essas atividades não se aplica ao time de desenvolvimento, que foca mais na implementação do software de acordo com as especificações fornecidas.
+
