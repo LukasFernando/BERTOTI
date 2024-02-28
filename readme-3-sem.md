@@ -5,7 +5,7 @@
 Faça uma breve introdução sobre você. Fale de sua formação e carreira. Caso aplicável, fale de publicações ou apresentações em eventos da área de computação. Inclua uma foto!
 
 ## Contatos
-* [GIT](https://github.com)
+* [GIT](https://github.com/LukasFernando)
 * [LinkedIn](https://www.linkedin.com/)
 
 ## Meus Principais Conhecimentos
@@ -14,14 +14,23 @@ Apresente seus principais conhecimentos. Foque nos conhecimentos que possui maio
 ## PORTFOLIO
 
 ### 3º SEM - Controle de Jornada
-[Repositório Github](https://www.git.com)
+[Repositório Github](https://github.com/LukasFernando/FATEC-API-3_Semestre-Dragon)
 Fale sobre o projeto desenvolvido. Apresente a empresa parceira, o problema e a solução entregue pela equipe (mínimo de um parágrafo por item). Recomenda-se o uso de figuras (ou até mesmo vídeos) para ilustrar os principais projetos.
 
-[GIT](https://www.git.com)
-
 #### Tecnologias Utilizadas
-Apresente brevemente as tecnologias utilizadas. Uma tecnologia por linha. Indique qual a importância de cada tecnologia para o projeto.
-
+No 3° Semestre as tecnologias usadas foram: 
+**Back End**
+  * Java
+**Front End** 
+  * Spring Boot
+  * HTML
+  * CSS
+  * JavaScript
+**Banco de Dados** 
+  * MySQL
+**Security**
+  * JWT (JSON Web Tokens)
+    
 #### Contribuições Pessoais
 Apresente suas contribuições no projeto. Foque nas funcionalidades em que você mais atuou. Descreva sua atuação em detalhes, especificando que tecnologias você utilizou.
 
