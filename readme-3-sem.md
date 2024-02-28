@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Faça uma breve introdução sobre você. Fale de sua formação e carreira. Caso aplicável, fale de publicações ou apresentações em eventos da área de computação. Inclua uma foto!
+Meu nome é Lukas estou estudando Banco De Dados na FATEC, gosto da area de TI desde o primeiro print("Hello World"). A primeira linguagem de programação que aprendi foi o Python (é por isso que gostei de TI kk), e depois comecei a estudar HTML, CSS e JavaScript com o Guanabara (se esta começando a aprender a programar assista alguns videos do [Guanabara](https://www.youtube.com/@CursoemVideo)). E quando entrei na FATEC eu aprendi Java no 2° semestre (no primeiro foi Python).
 
 ## Contatos
 * [Github](https://github.com/LukasFernando)
