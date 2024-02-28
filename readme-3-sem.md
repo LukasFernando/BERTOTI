@@ -1,5 +1,8 @@
 # Lukas Fernando Berto
 
+![image](https://github.com/LukasFernando/BERTOTI/assets/94874696/20fe2ca4-128a-4409-90f4-353f66a24e15)
+
+
 ## Introdução
 
 Faça uma breve introdução sobre você. Fale de sua formação e carreira. Caso aplicável, fale de publicações ou apresentações em eventos da área de computação. Inclua uma foto!
@@ -15,6 +18,9 @@ Apresente seus principais conhecimentos. Foque nos conhecimentos que possui maio
 
 ### 3º SEM - Controle de Jornada
 [Repositório Github](https://github.com/LukasFernando/FATEC-API-3_Semestre-Dragon)
+
+No segundo semestre de 2023 a empresa [2RP](https://2rpnet.com.br/) pediu um programa para controlar as horas extras e sobreaviso dos funcionarios. Assim tinhamos
+
 Fale sobre o projeto desenvolvido. Apresente a empresa parceira, o problema e a solução entregue pela equipe (mínimo de um parágrafo por item). Recomenda-se o uso de figuras (ou até mesmo vídeos) para ilustrar os principais projetos.
 
 #### Tecnologias Utilizadas
