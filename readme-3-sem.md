@@ -18,8 +18,13 @@ Apresente seus principais conhecimentos. Foque nos conhecimentos que possui maio
 
 No segundo semestre de 2023 a empresa [2RP](https://2rpnet.com.br/) pediu um programa para controlar as horas extras e sobreaviso dos funcionarios. Assim tinhamos
 
- ![2023-10-03-22-48-40](https://github.com/dragonfatec/Projeto-web/assets/94874696/78bfbdb7-6a59-4ebf-8093-bcbd70001a35)
+<div> Mockup do projeto </div>
+<details>
  
+ ![2023-10-03-22-48-40](https://github.com/dragonfatec/Projeto-web/assets/94874696/78bfbdb7-6a59-4ebf-8093-bcbd70001a35)
+
+</details>
+
 
 #### Tecnologias Utilizadas
 No 3° Semestre as tecnologias usadas foram: 
