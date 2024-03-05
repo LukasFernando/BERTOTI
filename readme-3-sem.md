@@ -9,7 +9,12 @@ Meu nome é Lukas estou estudando Banco De Dados na FATEC, gosto da area de TI d
 * [LinkedIn](https://www.linkedin.com/)
 
 ## Meus Principais Conhecimentos
-Apresente seus principais conhecimentos. Foque nos conhecimentos que possui maior domínio e que deseja desenvolver durante sua carreira.
+No momento, meus conhecimentos desenvolvidos na FATEC são:
+* Python
+* Java
+* HTML
+* CSS
+* SQL
 
 ## PORTFOLIO
 
@@ -41,7 +46,7 @@ No 3° Semestre as tecnologias usadas foram:
   * JWT (JSON Web Tokens)
     
 #### Contribuições Pessoais
-No segundo semestre de 2023 atuei como PO. Com essa função tive a responsabilidade de entender o problema que o cliente trouxe, e criar o backlog para o time de desenvolvimento. Assim, consegui desenvolver mais minha comunicação com o time e o cliente, melhorei meu conhecimento em Figma e GitHub, e por fim, meu entendimento de como comunicar com o cliente a fim de entender o problema e propor possiveis soluções.
+No segundo semestre de 2023 atuei como PO. Com essa função tive a responsabilidade de entender o programa que o cliente queria e suas funcionalidades, e criar o backlog para o time de desenvolvimento. Assim, consegui desenvolver mais minha comunicação com o time e o cliente, melhorei meu conhecimento em Figma e GitHub, e por fim, meu entendimento de como comunicar com o cliente a fim de entender o problema e propor possiveis soluções.
 
 #### Hard Skills
 No segundo semestre de 2023 atuei como PO, ou seja, não time muito contato com linguagem de programação. Entretanto, eu ajudei o time de desenvolvimento a criar uma função para parametrizar as horas extras e sobreaviso (usei a linguagem de programação Java).
