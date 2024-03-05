@@ -16,7 +16,7 @@ Apresente seus principais conhecimentos. Foque nos conhecimentos que possui maio
 ### 3º SEM - Controle de Jornada
 [Repositório Github](https://github.com/LukasFernando/FATEC-API-3_Semestre-Dragon)
 
-No segundo semestre de 2023 a empresa [2RP](https://2rpnet.com.br/) pediu um programa para controlar as horas extras e sobreaviso dos funcionarios. Assim tinhamos
+No segundo semestre de 2023 a empresa [2RP](https://2rpnet.com.br/) pediu um programa para controlar as horas extras e sobreaviso dos funcionarios, onde tinha varias funcionalidades como adicionar usuario/cliente/CR(Centro de Resultado), adicionar uma hora extra/sobreaviso, aprovar/reprovar horas extras/sobreaviso, entre outras funcionalidades. Assim, a empresa [2RP](https://2rpnet.com.br/) teria uma melhor visibilidade das horas extras/sobreaviso de seus funcionarios.
 
 <div> Mockup do projeto </div>
 <details>
@@ -41,13 +41,13 @@ No 3° Semestre as tecnologias usadas foram:
   * JWT (JSON Web Tokens)
     
 #### Contribuições Pessoais
-Apresente suas contribuições no projeto. Foque nas funcionalidades em que você mais atuou. Descreva sua atuação em detalhes, especificando que tecnologias você utilizou.
+No segundo semestre de 2023 atuei como PO. Com essa função tive a responsabilidade de entender o problema que o cliente trouxe, e criar o backlog para o time de desenvolvimento. Assim, consegui desenvolver mais minha comunicação com o time e o cliente, melhorei meu conhecimento em Figma e GitHub, e por fim, meu entendimento de como comunicar com o cliente a fim de entender o problema e propor possiveis soluções.
 
 #### Hard Skills
 No segundo semestre de 2023 atuei como PO, ou seja, não time muito contato com linguagem de programação. Entretanto, eu ajudei o time de desenvolvimento a criar uma função para parametrizar as horas extras e sobreaviso (usei a linguagem de programação Java).
 
 #### Soft Skills
-No segundo semestre de 2023 atuei como PO. Com essa função tive a responsabilidade de entender o problema que o cliente trouxe, e criar o backlog para o time de desenvolvimento. Assim, consegui desenvolver mais minha comunicação com o time e o cliente, melhorei meu conhecimento em Figma e GitHub, e por fim, meu entendimento de como comunicar com o cliente a fim de entender o problema e propor possiveis soluções.
+No segundo semestre de 2023 desenvolvi mais a habilidade de comunicar com o cliente para entender o que ele precisa e propor soluções, e minha comunicação com minha equipe, onde tive que criar tasks para o time de desenvolvimento e explicar o pedido do cliente.
 
 ### Em 2022-1
 Mesmo formato
