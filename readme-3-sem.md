@@ -44,10 +44,10 @@ No 3° Semestre as tecnologias usadas foram:
 Apresente suas contribuições no projeto. Foque nas funcionalidades em que você mais atuou. Descreva sua atuação em detalhes, especificando que tecnologias você utilizou.
 
 #### Hard Skills
-Apresente as hard skills que você utilizou/desenvolveu durante o projeto e o nível de proficiência alcançado. Exemplo: CSS - Sei fazer com autonomia
+No segundo semestre de 2023 atuei como PO, ou seja, não time muito contato com linguagem de programação. Entretanto, eu ajudei o time de desenvolvimento a criar uma função para parametrizar as horas extras e sobreaviso (usei a linguagem de programação Java).
 
 #### Soft Skills
-Apresente as soft skills que você utilizou/desenvolveu durante o projeto e em quais situações elas foram fundamentais. Exemplo: Comunicação - Precisei exercitar minhas habilidades de comunicação para viabilizar as reuniões semanais levando em conta as disponibilidades dos membros, que não cursavam as mesmas disciplinas.
+No segundo semestre de 2023 atuei como PO. Com essa função tive a responsabilidade de entender o problema que o cliente trouxe, e criar o backlog para o time de desenvolvimento. Assim, consegui desenvolver mais minha comunicação com o time e o cliente, melhorei meu conhecimento em Figma e GitHub, e por fim, meu entendimento de como comunicar com o cliente a fim de entender o problema e propor possiveis soluções.
 
 ### Em 2022-1
 Mesmo formato
