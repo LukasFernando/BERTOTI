@@ -1,7 +1,6 @@
 # Lukas Fernando Berto
 
 ## Introdução
-
 Meu nome é Lukas, estou estudando Banco De Dados na FATEC, gosto da area de TI desde o primeiro print("Hello World"). A primeira linguagem de programação que aprendi foi o Python (é por isso que gostei de TI kk), e depois comecei a estudar HTML, CSS e JavaScript com o Guanabara (se esta começando a aprender a programar assista alguns videos do [Guanabara](https://www.youtube.com/@CursoemVideo)). E quando entrei na FATEC eu aprendi Java no 2° semestre (no primeiro foi Python).
 
 ## Contatos
@@ -17,7 +16,6 @@ No momento, meus conhecimentos desenvolvidos na FATEC são:
 * SQL
 
 ## PORTFOLIO
-
 ### 3º SEM - Controle de Jornada
 No segundo semestre de 2023, a empresa [2RP](https://2rpnet.com.br/) pediu um programa para controlar as horas extras e sobreaviso dos funcionarios, onde tinha varias funcionalidades como adicionar usuario/cliente/CR(Centro de Resultado), adicionar uma hora extra/sobreaviso, aprovar/reprovar horas extras/sobreaviso, entre outras funcionalidades. Assim, a empresa [2RP](https://2rpnet.com.br/) teria uma melhor visibilidade das horas extras/sobreaviso de seus funcionarios. Para saber mais sobre o projeto visite nosso [Repositório no Github](https://github.com/LukasFernando/FATEC-API-3_Semestre-Dragon).
 
@@ -30,16 +28,16 @@ No segundo semestre de 2023, a empresa [2RP](https://2rpnet.com.br/) pediu um pr
 
 ### Tecnologias Utilizadas
 No 3° Semestre as tecnologias usadas foram: 
-#### **Back End**
+##### **Back End**
   * Java
-#### **Front End** 
+##### **Front End** 
   * Spring Boot
   * HTML
   * CSS
   * JavaScript
-#### **Banco de Dados** 
+##### **Banco de Dados** 
   * MySQL
-#### **Security**
+##### **Security**
   * JWT (JSON Web Tokens)
     
 #### Contribuições Pessoais
