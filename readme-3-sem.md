@@ -28,7 +28,7 @@ No segundo semestre de 2023, a empresa [2RP](https://2rpnet.com.br/) pediu um pr
 
 </details>
 
-#### Tecnologias Utilizadas
+### Tecnologias Utilizadas
 No 3° Semestre as tecnologias usadas foram: 
 #### **Back End**
   * Java
@@ -50,10 +50,10 @@ Comunicação:
 Novas ferramentas:
 * Aprimorei meu conhecimento em Figma, Canva, Jira e GitHub.
 
-#### Hard Skills
+### Hard Skills
 No segundo semestre de 2023, atuei como PO, ou seja, não tive muito contato com linguagem de programação. Entretanto, eu ajudei o time de desenvolvimento a criar uma função para parametrizar as horas extras e sobreaviso (usei a linguagem de programação Java).
 
-#### Soft Skills
+### Soft Skills
 No segundo semestre de 2023, desenvolvi mais a habilidade de comunicar com o cliente para entender o que ele precisa e propor soluções, e minha comunicação com minha equipe, onde tive que criar tasks para o time de desenvolvimento e explicar o pedido do cliente.
 
 ### Em 2022-1
