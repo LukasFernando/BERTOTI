@@ -28,31 +28,27 @@ No segundo semestre de 2023, a empresa [2RP](https://2rpnet.com.br/) pediu um pr
 
 </details>
 
-
 #### Tecnologias Utilizadas
 No 3° Semestre as tecnologias usadas foram: 
-
-**Back End**
+#### **Back End**
   * Java
-
-**Front End** 
+#### **Front End** 
   * Spring Boot
   * HTML
   * CSS
   * JavaScript
-**Banco de Dados** 
+#### **Banco de Dados** 
   * MySQL
-
-**Security**
+#### **Security**
   * JWT (JSON Web Tokens)
     
 #### Contribuições Pessoais
-Responsabilidade diferente como dev e entendimento do Scrum:
-* No segundo semestre de 2023, atuei como PO. Com essa função tive a responsabilidade de entender o programa que o cliente queria e suas funcionalidades, e criar o backlog para o time de desenvolvimento.
+Responsabilidade e entendimento do Scrum:
+* No segundo semestre de 2023, atuei como PO. Com essa função tive a responsabilidade de entender o programa que o cliente queria e suas funcionalidades, e tive que criar o backlog para o time de desenvolvimento, isso me fez conhecer mais a metodologia agil Scrum.
 Comunicação:
-* Assim, consegui desenvolver mais minha comunicação com o time e o cliente. assim, melhorei meu entendimento de como comunicar com o cliente a fim de entender o problema e propor possiveis soluções.
+* Com as novas responsabilidades, consegui desenvolver mais minha comunicação com o time e o cliente. Assim, aprimorei meu entendimento de como comunicar com o cliente a fim de entender o problema e propor possiveis soluções.
 Novas ferramentas:
-* Melhorei meu conhecimento em Figma, Canva, Jira e GitHub.
+* Aprimorei meu conhecimento em Figma, Canva, Jira e GitHub.
 
 #### Hard Skills
 No segundo semestre de 2023, atuei como PO, ou seja, não tive muito contato com linguagem de programação. Entretanto, eu ajudei o time de desenvolvimento a criar uma função para parametrizar as horas extras e sobreaviso (usei a linguagem de programação Java).
