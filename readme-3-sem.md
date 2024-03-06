@@ -56,14 +56,3 @@ No segundo semestre de 2023, atuei como PO, ou seja, não tive muito contato com
 ### Soft Skills
 No segundo semestre de 2023, desenvolvi mais a habilidade de comunicar com o cliente para entender o que ele precisa e propor soluções, e minha comunicação com minha equipe, onde tive que criar tasks para o time de desenvolvimento e explicar o pedido do cliente.
 
-### Em 2022-1
-Mesmo formato
-
-### Em 2022-2
-Mesmo formato
-
-### Em 2023-1
-Mesmo formato
-
-### Em 2023-2
-Mesmo formato
