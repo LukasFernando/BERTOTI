@@ -3,22 +3,16 @@ package observer;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Veiculos {
+public class Manutencao {
     List<Observer> listaVeiculos = new ArrayList<>();
 
     public void adicionarVeiculo(Observer veiculo){
         listaVeiculos.add(veiculo);
     }
 
-    public void ligarTodosVeiculos(){
+    public void notificar(){
         for (Observer veiculo : listaVeiculos){
-            veiculo.ligar();
-        }
-    }
-
-    public void andarComTodosVeiculos(){
-        for (Observer veiculo : listaVeiculos){
-            veiculo.andar();
+            veiculo.update();
         }
     }
 }

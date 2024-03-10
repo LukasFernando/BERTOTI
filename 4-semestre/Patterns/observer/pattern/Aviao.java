@@ -14,12 +14,8 @@ public class Aviao implements Observer{
     }
 
     @Override
-    public void ligar() {
-        System.out.println("Ligando o avião...");
+    public void update() {
+        System.out.println("AVIÃO - O avião passou na manutenção.");
     }
 
-    @Override
-    public void andar() {
-        System.out.println("O avião esta voando!");
-    }
 }

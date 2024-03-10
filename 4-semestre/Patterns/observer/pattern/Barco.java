@@ -14,12 +14,8 @@ public class Barco implements Observer{
     }
 
     @Override
-    public void ligar() {
-        System.out.println("Ligando o barco...");
+    public void update() {
+        System.out.println("BARCO - O barco passou na manutenção.");
     }
 
-    @Override
-    public void andar() {
-        System.out.println("O barco esta andando no meio do oceano!");
-    }
 }

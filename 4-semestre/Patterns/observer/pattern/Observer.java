@@ -1,6 +1,5 @@
 package observer;
 
 public interface Observer {
-    public void ligar();
-    public void andar();
+    public void update();
 }

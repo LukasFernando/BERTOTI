@@ -13,12 +13,8 @@ public class Carro implements Observer{
     }
 
     @Override
-    public void ligar() {
-        System.out.println("Ligando o carro...");
+    public void update() {
+        System.out.println("CARRO - O carro passou na manutenção.");
     }
 
-    @Override
-    public void andar() {
-        System.out.println("O carro esta andando e parou no semáforo!");
-    }
 }
