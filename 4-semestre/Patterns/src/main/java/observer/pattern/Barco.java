@@ -15,7 +15,7 @@ public class Barco implements Observer {
 
     @Override
     public void update() {
-        System.out.println("BARCO - O barco passou na manutenção.");
+        System.out.println("BARCO " + modelo + " - O barco passou na manutenção.");
     }
 
 }

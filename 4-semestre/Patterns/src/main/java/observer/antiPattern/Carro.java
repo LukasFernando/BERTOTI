@@ -12,6 +12,6 @@ public class Carro {
     }
 
     public void update(){
-        System.out.println("CARRO - O carro passou na manutenção.");
+        System.out.println("CARRO " + modelo + " - O carro passou na manutenção.");
     }
 }

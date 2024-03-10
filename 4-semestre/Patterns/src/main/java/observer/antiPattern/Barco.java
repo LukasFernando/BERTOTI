@@ -14,6 +14,6 @@ public class Barco {
     }
 
     public void update(){
-        System.out.println("BARCO - O barco passou na manutenção.");
+        System.out.println("BARCO " + modelo + " - O barco passou na manutenção.");
     }
 }

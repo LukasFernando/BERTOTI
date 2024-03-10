@@ -14,6 +14,6 @@ public class Aviao {
     }
 
     public void update(){
-        System.out.println("AVIÃO - O avião passou na manutenção.");
+        System.out.println("AVIÃO " + modelo + " - O avião passou na manutenção.");
     }
 }
