@@ -1,7 +1,5 @@
 package observer.pattern;
 
-import observer.Observer;
-
 public class Carro implements Observer {
 
     String modelo;

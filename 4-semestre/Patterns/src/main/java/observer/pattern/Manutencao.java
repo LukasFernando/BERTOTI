@@ -1,7 +1,5 @@
 package observer.pattern;
 
-import observer.Observer;
-
 import java.util.ArrayList;
 import java.util.List;
 

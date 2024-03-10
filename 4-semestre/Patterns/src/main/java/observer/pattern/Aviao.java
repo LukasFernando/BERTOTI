@@ -1,7 +1,5 @@
 package observer.pattern;
 
-import observer.Observer;
-
 public class Aviao implements Observer {
     String modelo;
     String fabricante;

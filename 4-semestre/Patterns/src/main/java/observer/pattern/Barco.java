@@ -1,7 +1,5 @@
 package observer.pattern;
 
-import observer.Observer;
-
 public class Barco implements Observer {
     String modelo;
     String tipo;

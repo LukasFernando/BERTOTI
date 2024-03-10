@@ -1,9 +1,5 @@
 package observer.pattern;
 
-
-import observer.Manutencao;
-import observer.Observer;
-
 public class Main {
     public static void main(String[] args) {
         Manutencao Manutencao = new Manutencao();
