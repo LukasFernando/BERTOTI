@@ -1,6 +1,8 @@
-package observer;
+package observer.pattern;
 
-public class Aviao implements Observer{
+import observer.Observer;
+
+public class Aviao implements Observer {
     String modelo;
     String fabricante;
     String motor;

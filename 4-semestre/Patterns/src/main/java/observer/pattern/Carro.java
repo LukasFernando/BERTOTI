@@ -1,6 +1,8 @@
-package observer;
+package observer.pattern;
 
-public class Carro implements Observer{
+import observer.Observer;
+
+public class Carro implements Observer {
 
     String modelo;
     String fabricante;

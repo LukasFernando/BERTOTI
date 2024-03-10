@@ -1,6 +1,8 @@
-package observer;
+package observer.pattern;
 
-public class Barco implements Observer{
+import observer.Observer;
+
+public class Barco implements Observer {
     String modelo;
     String tipo;
     String fabricante;
