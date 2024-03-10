@@ -1,6 +1,6 @@
 HELP.md
 target/
-!.mvn/wrapper/maven-wrapper.jar
+!3-semestre/Lab-3/restaurante/.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
 
