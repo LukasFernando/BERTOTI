@@ -1,6 +1,6 @@
 # Atividades do Bertoti
 
-## Nesse semestre temos 2 materias, Patterns e Portfolio.
+## Nesse semestre temos duas aulas, uma sobre Patterns e outra sobre Portfolio.
 
 ### Para o Patterns, estamos aprendendo 5 tipos de pattern, e para cada pattern estamos aprendendo o "no-pattern".
 * Observer
