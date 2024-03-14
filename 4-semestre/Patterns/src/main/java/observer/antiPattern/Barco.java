@@ -1,6 +1,6 @@
 package observer.antiPattern;
 
-public class Barco {
+public class Barco extends Update{
     String modelo;
     String tipo;
     String fabricante;
@@ -13,7 +13,7 @@ public class Barco {
         this.pes = pes;
     }
 
-    public void update(){
-        System.out.println("BARCO " + modelo + " - O barco passou na manutenção.");
-    }
+//    public void update(){
+//        System.out.println("BARCO " + modelo + " - O barco passou na manutenção.");
+//    }
 }

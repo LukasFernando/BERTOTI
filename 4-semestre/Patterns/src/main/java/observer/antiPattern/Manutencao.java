@@ -21,8 +21,14 @@ public class Manutencao {
     }
 
     public void notificar(){
-        avioes.forEach(Aviao::update);
-        barcos.forEach(Barco::update);
-        carros.forEach(Carro::update);
+        for(Aviao aviao : avioes){
+            aviao.update("aviao", aviao.modelo);
+        }
+        for(Barco barco : barcos){
+            barco.update("barco", barco.modelo);
+        }
+        for(Carro carro : carros){
+            carro.update("carro", carro.modelo);
+        }
     }
 }

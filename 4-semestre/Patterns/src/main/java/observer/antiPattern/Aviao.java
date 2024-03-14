@@ -1,6 +1,6 @@
 package observer.antiPattern;
 
-public class Aviao {
+public class Aviao extends Update{
     String modelo;
     String fabricante;
     String motor;
@@ -13,7 +13,7 @@ public class Aviao {
         this.tamanhoAsas = tamanhoAsas;
     }
 
-    public void update(){
-        System.out.println("AVIÃO " + modelo + " - O avião passou na manutenção.");
-    }
+//    public void update(){
+//        System.out.println("AVIÃO " + modelo + " - O avião passou na manutenção.");
+//    }
 }

@@ -1,6 +1,6 @@
 package observer.antiPattern;
 
-public class Carro {
+public class Carro extends Update{
     String modelo;
     String fabricante;
     String motor;
@@ -11,7 +11,7 @@ public class Carro {
         this.motor = motor;
     }
 
-    public void update(){
-        System.out.println("CARRO " + modelo + " - O carro passou na manutenção.");
-    }
+//    public void update(){
+//        System.out.println("CARRO " + modelo + " - O carro passou na manutenção.");
+//    }
 }
