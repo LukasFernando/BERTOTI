@@ -41,24 +41,16 @@ No 3° Semestre as tecnologias usadas foram:
   * JWT (JSON Web Tokens)
     
 #### Contribuições Pessoais
+* Responsabilidade e entendimento do Scrum. <details> No segundo semestre de 2023, atuei como PO. Com essa função tive a responsabilidade de entender o programa que o cliente queria e suas funcionalidades, e tive que criar o backlog para o time de desenvolvimento, isso me fez conhecer mais a metodologia agil Scrum. </details> 
+* Responsabilidade e entendimento do Scrum. <details> No segundo semestre de 2023, atuei como PO. Com essa função tive a responsabilidade de entender o programa que o cliente queria e suas funcionalidades, e tive que criar o backlog para o time de desenvolvimento, isso me fez conhecer mais a metodologia agil Scrum. </details>
+* Comunicação. <details> Com as novas responsabilidades, consegui desenvolver mais minha comunicação com o time e o cliente. Assim, aprimorei meu entendimento de como comunicar com o cliente a fim de entender o problema e propor possiveis soluções. </details>
+* Novas ferramentas. <details> Aprimorei meu conhecimento em Figma, Canva, Jira e GitHub. </details>
 
-
+##### Diagrama MER 
 <details>
- 
+
 ![image](https://github.com/dragonfatec/Projeto-web/assets/107444159/63630370-4875-4d81-932c-e9126994a1b0)
 
-</details>
-
-#### Outros
-<details>
-<h5> Responsabilidade e entendimento do Scrum: </h5>
-<li> No segundo semestre de 2023, atuei como PO. Com essa função tive a responsabilidade de entender o programa que o cliente queria e suas funcionalidades, e tive que criar o backlog para o time de desenvolvimento, isso me fez conhecer mais a metodologia agil Scrum. </li>
-
-<h5> Comunicação: </h5>
-<li> Com as novas responsabilidades, consegui desenvolver mais minha comunicação com o time e o cliente. Assim, aprimorei meu entendimento de como comunicar com o cliente a fim de entender o problema e propor possiveis soluções. </li>
-
-<h5> Novas ferramentas: </h5>
-<li> Aprimorei meu conhecimento em Figma, Canva, Jira e GitHub. </li>
 </details>
 
 ### Hard Skills
