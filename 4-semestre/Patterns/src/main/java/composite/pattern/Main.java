@@ -1,25 +1,22 @@
 package composite.pattern;
 
-
 public class Main {
     public static void main(String[] args) {
-        Mochila mochila = new Mochila();
+        Diretorio diretorio1 = new Diretorio("d1");
+        Diretorio diretorio2 = new Diretorio("d2");
 
-        Categoria papelaria = new Categoria();
-        Categoria tecnologia = new Categoria();
+        Arquivo arquivo1 = new Arquivo("a", "txt");
+        Arquivo arquivo2 = new Arquivo("b", "csv");
+        Arquivo arquivo3 = new Arquivo("c", "xlsx");
 
-        Component caderno = new ItemCaderno("caderno", 12.90);
-        Component lapis = new ItemCaderno("lapis", 2.50);
-        Component notebook = new ItemCaderno("notebook", 4050.00);
+        diretorio1.adicionarItem(arquivo1);
+        diretorio1.adicionarItem(diretorio2);
 
-        papelaria.adicionarItem(caderno);
-        papelaria.adicionarItem(lapis);
+        diretorio2.adicionarItem(arquivo2);
+        diretorio2.adicionarItem(arquivo3);
 
-        tecnologia.adicionarItem(notebook);
+        diretorio1.mostrarInformacoes();
+        diretorio2.mostrarInformacoes();
 
-        mochila.adicionarCategoria(papelaria);
-        mochila.adicionarCategoria(tecnologia);
-
-        mochila.imprimirItems();
     }
 }
