@@ -14,6 +14,5 @@ public class Main {
         manutencao.adicionarCarro(carro);
 
         manutencao.notificar();
-
     }
 }

@@ -10,8 +10,4 @@ public class Carro extends Update{
         this.fabricante = fabricante;
         this.motor = motor;
     }
-
-//    public void update(){
-//        System.out.println("CARRO " + modelo + " - O carro passou na manutenção.");
-//    }
 }

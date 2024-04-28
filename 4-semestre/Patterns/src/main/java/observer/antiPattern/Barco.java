@@ -12,8 +12,4 @@ public class Barco extends Update{
         this.fabricante = fabricante;
         this.pes = pes;
     }
-
-//    public void update(){
-//        System.out.println("BARCO " + modelo + " - O barco passou na manutenção.");
-//    }
 }
