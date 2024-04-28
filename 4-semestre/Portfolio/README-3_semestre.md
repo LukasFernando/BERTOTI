@@ -41,10 +41,13 @@ No 3° Semestre as tecnologias usadas foram:
   * JWT (JSON Web Tokens)
     
 #### Contribuições Pessoais
-* Responsabilidade e entendimento do Scrum. <details> No segundo semestre de 2023, atuei como PO. Com essa função tive a responsabilidade de entender o programa que o cliente queria e suas funcionalidades, e tive que criar o backlog para o time de desenvolvimento, isso me fez conhecer mais a metodologia agil Scrum. </details> 
-* Responsabilidade e entendimento do Scrum. <details> No segundo semestre de 2023, atuei como PO. Com essa função tive a responsabilidade de entender o programa que o cliente queria e suas funcionalidades, e tive que criar o backlog para o time de desenvolvimento, isso me fez conhecer mais a metodologia agil Scrum. </details>
-* Comunicação. <details> Com as novas responsabilidades, consegui desenvolver mais minha comunicação com o time e o cliente. Assim, aprimorei meu entendimento de como comunicar com o cliente a fim de entender o problema e propor possiveis soluções. </details>
-* Novas ferramentas. <details> Aprimorei meu conhecimento em Figma, Canva, Jira e GitHub. </details>
+* Utilização e organização do Java com o JPA. <details> Durante o segundo semestre de 2023, adquiri habilidades essenciais para desenvolver projetos com Java e JPA (Java Persistence API). Aprofundei-me na utilização de cada componente do JPA, incluindo Entity, Repository, DTO (Data Transfer Objects) e Service, além de aprender a estruturar minhas pastas de forma eficiente. Essa organização contribuiu significativamente para a clareza e manutenção do código, facilitando a implementação e evolução do projeto ao longo do tempo. </details>
+* Utilização do banco de dados com Java. <details> Durante o segundo semestre de 2023, aprimorei minhas habilidades em utilizar bancos de dados em conjunto com a linguagem Java. Compreendi os conceitos fundamentais de conexão com o banco de dados, execução de consultas SQL e manipulação de resultados. Essa competência é essencial para o desenvolvimento de aplicações robustas e escaláveis, permitindo o armazenamento e recuperação eficientes de dados necessários para o funcionamento do sistema. </details>
+* Utilização do Spring Boot com Java e MySQL. <details> No segundo semestre de 2023, explorei as funcionalidades do Spring Boot em conjunto com Java e MySQL. O Spring Boot oferece uma estrutura poderosa para o desenvolvimento rápido de aplicações, facilitando a configuração e o gerenciamento de dependências. Com o suporte integrado ao MySQL, pude desenvolver aplicações web de forma ágil e eficaz, aproveitando as vantagens do ecossistema Spring para criar sistemas escaláveis e de alta qualidade. </details>
+* Realização de requisições do JavaScript para o Java. <details> Durante o segundo semestre de 2023, adquiri conhecimentos sobre como realizar requisições do JavaScript para o backend Java. Essa habilidade é essencial para o desenvolvimento de aplicações web interativas e dinâmicas, permitindo a comunicação assíncrona entre o frontend e o backend. Por meio do Spring Boot, pude implementar funcionalidades que respondem de forma rápida e eficiente às solicitações dos usuários, proporcionando uma experiência fluida e responsiva. </details>
+* Responsabilidade e Entendimento do Scrum. <details> Durante o segundo semestre de 2023, dediquei-me a compreender melhor meu papel como Product Owner (PO) dentro do framework Scrum. Como PO, aprendi a gerenciar o backlog do produto, priorizar as necessidades dos clientes e facilitar a entrega contínua de valor. Além disso, explorei os princípios e práticas do Scrum, entendendo como as iterações, reuniões e artefatos contribuem para o desenvolvimento ágil de projetos. </details>
+* Comunicação. <details> Aprimorei minhas habilidades de comunicação de forma significativa durante o segundo semestre de 2023. Reconheci a importância de transmitir informações de maneira clara, concisa e eficaz, tanto dentro da equipe de desenvolvimento quanto para os clientes. Aprendi a ouvir ativamente as necessidades e preocupações de todos os envolvidos no projeto, facilitando a comunicação entre diferentes partes interessadas e promovendo um ambiente colaborativo e produtivo. </details>
+* Novas ferramentas, por exemplo Figma, Canva, Jira e GitHub. <details> Durante o segundo semestre de 2023, explorei e me familiarizei com diversas ferramentas que se tornaram essenciais para o meu trabalho como Product Owner. No campo do design e prototipagem, adotei o Figma e o Canva, permitindo-me criar wireframes e mockups de forma mais eficiente e colaborativa. Além disso, aprofundei meu conhecimento em ferramentas de gerenciamento de projetos, como Jira e GitHub, utilizando-as para acompanhar o progresso das tarefas, gerenciar o backlog e colaborar com a equipe de desenvolvimento de maneira mais eficaz. </details>
 
 ##### Diagrama MER 
 <details>
@@ -54,8 +57,25 @@ No 3° Semestre as tecnologias usadas foram:
 </details>
 
 ### Hard Skills
-No segundo semestre de 2023, atuei como PO, ou seja, não tive muito contato com linguagem de programação. Entretanto, eu ajudei o time de desenvolvimento a criar uma função para parametrizar as horas extras e sobreaviso (usei a linguagem de programação Java).
+Durante o segundo semestre de 2023, adquiri habilidades essenciais para desenvolver projetos com 
+Java e JPA (Java Persistence API), aprimorando-me na utilização de cada componente do JPA, incluindo 
+Entity, Repository, DTO (Data Transfer Objects) e Service, além de aprender a estruturar pastas 
+de forma eficiente. Também aprimorei minhas habilidades em utilizar bancos de dados em conjunto com a 
+linguagem Java, compreendendo os conceitos fundamentais de conexão com o banco de dados, execução de 
+consultas SQL e manipulação de resultados. Explorei as funcionalidades do Spring Boot em conjunto com 
+Java e MySQL, facilitando o desenvolvimento rápido de aplicações web e aproveitando as vantagens do 
+ecossistema Spring para criar sistemas escaláveis e de alta qualidade. Adquiri conhecimentos sobre 
+como realizar requisições do JavaScript para o backend Java, essencial para o desenvolvimento de 
+aplicações web interativas e dinâmicas.
+
 
 ### Soft Skills
-No segundo semestre de 2023, desenvolvi mais a habilidade de comunicar com o cliente para entender o que ele precisa e propor soluções, e minha comunicação com minha equipe, onde tive que criar tasks para o time de desenvolvimento e explicar o pedido do cliente.
+Durante o segundo semestre de 2023, aprimorei minhas habilidades de comunicação, reconhecendo a importância 
+de transmitir informações de maneira clara, concisa e eficaz, tanto dentro da equipe de desenvolvimento 
+quanto para os clientes. Aprendi a ouvir ativamente as necessidades e preocupações de todos os envolvidos 
+no projeto, facilitando a comunicação entre diferentes partes interessadas e promovendo um ambiente 
+colaborativo e produtivo. Além disso, explorei e me familiarizei com diversas ferramentas que se tornaram 
+essenciais para meu trabalho como Product Owner, adotando o Figma e o Canva para design e prototipagem, e 
+aprofundando meu conhecimento em ferramentas de gerenciamento de projetos, como Jira e GitHub, para acompanhar 
+o progresso das tarefas e colaborar com a equipe de desenvolvimento de maneira mais eficaz.
 
