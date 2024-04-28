@@ -23,7 +23,7 @@ public class Diretorio implements Component{
         for(Component component : listaDeComponentes){
             System.out.println("    "+component);
         }
-        System.out.println("Fim do dicionario.\n");
+        System.out.println("Fim do diretorio.\n");
     }
 
     @Override
