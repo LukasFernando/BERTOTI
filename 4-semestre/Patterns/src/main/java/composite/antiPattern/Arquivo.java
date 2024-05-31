@@ -9,6 +9,10 @@ public class Arquivo {
         this.tipo = tipo;
     }
 
+    public void mostrarInformacoes(){
+        System.out.println("Arquivo{ nome = '" + nome + "', tipo = '" + tipo + "' }");
+    }
+
     @Override
     public String toString() {
         return "Arquivo{ nome = '" + nome + "', tipo = '" + tipo + "' }";

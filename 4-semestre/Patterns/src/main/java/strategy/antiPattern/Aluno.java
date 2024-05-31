@@ -4,7 +4,7 @@ public class Aluno {
     private double nota;
     private boolean aprovado;
 
-    public void calcularMedia() {
+    public void fecharNota() {
         double a = Math.round(Math.random()*10);
         nota = Math.round(Math.random()*10);
         aprovado = nota >= 6 ? true : false;

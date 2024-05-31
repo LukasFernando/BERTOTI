@@ -11,7 +11,7 @@ public class Arquivo implements Component{
 
     @Override
     public void mostrarInformacoes() {
-
+        System.out.println("Arquivo{ nome = '" + nome + "', tipo = '" + tipo + "' }");
     }
 
     @Override

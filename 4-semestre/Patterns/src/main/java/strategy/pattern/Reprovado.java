@@ -1,7 +1,5 @@
 package strategy.pattern;
 
-import java.text.DecimalFormat;
-
 public class Reprovado implements Status{
     private double nota;
 
