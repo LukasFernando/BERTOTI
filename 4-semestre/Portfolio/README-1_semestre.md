@@ -15,8 +15,8 @@ No momento, meus conhecimentos desenvolvidos na FATEC são:
 * SQL
 
 ## Portfolio
-### 3º Semestre - Controle de Jornada
-No segundo semestre de 2023, a empresa [2RP](https://2rpnet.com.br/) pediu um programa para controlar as horas extras e sobreaviso dos funcionarios, onde tinha varias funcionalidades como adicionar usuario/cliente/CR(Centro de Resultado), adicionar uma hora extra/sobreaviso, aprovar/reprovar horas extras/sobreaviso, entre outras funcionalidades. Assim, a empresa [2RP](https://2rpnet.com.br/) teria uma melhor visibilidade das horas extras/sobreaviso de seus funcionarios. Para saber mais sobre o projeto visite nosso [Repositório no Github](https://github.com/LukasFernando/FATEC-API-3_Semestre-Dragon).
+### 1º Semestre - Controle de Jornada
+No segundo semestre de 2023, a empresa PBLTeX pediu um programa para o time desenvolver uma dinâmica de Avaliação Democratizada baseada na técnica de Avaliação 360º. Para saber mais sobre o projeto visite nosso [Repositório no Github](https://github.com/LukasFernando/FATEC-API-1_Semestre-Falcon).
 
 <div> Mockup do projeto </div>
 <details>
