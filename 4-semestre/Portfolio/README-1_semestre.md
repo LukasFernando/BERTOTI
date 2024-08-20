@@ -42,25 +42,8 @@ No 1° Semestre as tecnologias usadas foram:
 * Novas ferramentas, por exemplo Canva e GitHub. <details> Durante o segundo semestre de 2022, explorei e me familiarizei com diversas ferramentas que se tornaram essenciais para o meu trabalho como Product Owner. No campo do design e prototipagem, adotei o Figma e o Canva, permitindo-me criar wireframes e mockups de forma mais eficiente e colaborativa. Além disso, aprofundei meu conhecimento em ferramentas de gerenciamento de projetos, como Jira e GitHub, utilizando-as para acompanhar o progresso das tarefas, gerenciar o backlog e colaborar com a equipe de desenvolvimento de maneira mais eficaz. </details>
 
 ### Hard Skills
-Durante o segundo semestre de 2023, adquiri habilidades essenciais para desenvolver projetos com 
-Java e JPA (Java Persistence API), aprimorando-me na utilização de cada componente do JPA, incluindo 
-Entity, Repository, DTO (Data Transfer Objects) e Service, além de aprender a estruturar pastas 
-de forma eficiente. Também aprimorei minhas habilidades em utilizar bancos de dados em conjunto com a 
-linguagem Java, compreendendo os conceitos fundamentais de conexão com o banco de dados, execução de 
-consultas SQL e manipulação de resultados. Explorei as funcionalidades do Spring Boot em conjunto com 
-Java e MySQL, facilitando o desenvolvimento rápido de aplicações web e aproveitando as vantagens do 
-ecossistema Spring para criar sistemas escaláveis e de alta qualidade. Adquiri conhecimentos sobre 
-como realizar requisições do JavaScript para o backend Java, essencial para o desenvolvimento de 
-aplicações web interativas e dinâmicas.
-
+Durante o segundo semestre de 2022, desenvolvi e refinei minhas habilidades em Python, utilizando bibliotecas como hashlib, json, findall e eel para diversos propósitos. Também adquiri experiência em JavaScript e HTML, contribuindo para o desenvolvimento do front-end. Aprimorei minhas habilidades em manipulação de dados com JSON, aplicando essas técnicas em projetos que envolviam armazenamento de dados. Além disso, explorei e me familiarizei com ferramentas como Canva e GitHub, essenciais para o design e gerenciamento de projetos, aprimorando minha capacidade de criar wireframes e mockups, gerenciar o progresso das tarefas e colaborar de forma eficaz com a equipe de desenvolvimento.
 
 ### Soft Skills
-Durante o segundo semestre de 2023, aprimorei minhas habilidades de comunicação, reconhecendo a importância 
-de transmitir informações de maneira clara, concisa e eficaz, tanto dentro da equipe de desenvolvimento 
-quanto para os clientes. Aprendi a ouvir ativamente as necessidades e preocupações de todos os envolvidos 
-no projeto, facilitando a comunicação entre diferentes partes interessadas e promovendo um ambiente 
-colaborativo e produtivo. Além disso, explorei e me familiarizei com diversas ferramentas que se tornaram 
-essenciais para meu trabalho como Product Owner, adotando o Figma e o Canva para design e prototipagem, e 
-aprofundando meu conhecimento em ferramentas de gerenciamento de projetos, como Jira e GitHub, para acompanhar 
-o progresso das tarefas e colaborar com a equipe de desenvolvimento de maneira mais eficaz.
+Durante o segundo semestre de 2022, desenvolvi habilidades essenciais em comunicação e colaboração ao trabalhar com equipes de desenvolvimento e design. Melhorei minha capacidade de ouvir ativamente e entender as necessidades dos colegas e clientes, facilitando a integração de soluções e promovendo um ambiente produtivo. Além disso, adotei ferramentas como Canva e GitHub, que se mostraram fundamentais para o gerenciamento de projetos e design, permitindo-me criar protótipos eficazes e acompanhar o progresso das tarefas de maneira mais eficiente.
 
