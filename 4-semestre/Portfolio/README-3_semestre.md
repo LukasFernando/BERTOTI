@@ -9,7 +9,6 @@ Meu nome é Lukas, estou estudando Banco De Dados na FATEC, gosto da area de TI 
 
 ## Meus Principais Conhecimentos
 No momento, meus conhecimentos desenvolvidos na FATEC são:
-* Python
 * Java
 * HTML
 * CSS
