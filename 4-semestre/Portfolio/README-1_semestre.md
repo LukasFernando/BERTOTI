@@ -17,7 +17,7 @@ No momento, meus conhecimentos desenvolvidos na FATEC são:
 
 ## Portfolio
 ### 1º Semestre - Controle de Jornada
-No segundo semestre de 2023, a empresa PBLTeX pediu um programa para o time desenvolver uma dinâmica de Avaliação Democratizada baseada na técnica de Avaliação 360º. Para saber mais sobre o projeto visite nosso [Repositório no Github](https://github.com/LukasFernando/FATEC-API-1_Semestre-Falcon).
+No segundo semestre de 2022, a empresa PBLTeX pediu um programa para o time desenvolver uma dinâmica de Avaliação Democratizada baseada na técnica de Avaliação 360º. Para saber mais sobre o projeto visite nosso [Repositório no Github](https://github.com/LukasFernando/FATEC-API-1_Semestre-Falcon).
 
 <div> Mockup do projeto </div>
 <details>
