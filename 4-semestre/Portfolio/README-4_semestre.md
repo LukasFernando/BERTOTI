@@ -56,7 +56,8 @@ No 3° Semestre as tecnologias usadas foram:
 </details>
 
 ### Hard Skills
-
+Durante o primeiro semestre de 2024, adquiri habilidades essenciais para desenvolver projetos com Java e JPA (Java Persistence API), aprofundando-me na utilização de cada componente do JPA, como Entity, Repository, DTO (Data Transfer Objects) e Service. Também aprendi a trabalhar com Vue.js, um framework progressivo para construção de interfaces de usuário, explorando conceitos fundamentais como a criação de componentes e a integração com bibliotecas como Vue Router e Vuex. Além disso, continuei a utilizar o Spring Boot com Java e MySQL, aproveitando sua estrutura para o desenvolvimento ágil de aplicações web. Aprendi a realizar requisições do JavaScript para o backend Java, possibilitando uma comunicação assíncrona eficaz. Por fim, me familiarizei com ferramentas de gerenciamento de projetos como Jira e GitHub, melhorando meu acompanhamento do desenvolvimento e a colaboração com a equipe.
 
 ### Soft Skills
+Durante o primeiro semestre de 2024, refinei minhas habilidades de comunicação, aprendendo a transmitir informações de forma clara e eficaz, tanto com a equipe de desenvolvimento quanto com outras partes interessadas. Também desenvolvi minha capacidade de trabalho em equipe, reconhecendo a importância da colaboração e da troca de ideias para o sucesso dos projetos. Aprofundei meu entendimento sobre gerenciamento de projetos e ferramentas, como Jira e GitHub, que me ajudaram a organizar e priorizar tarefas de maneira mais eficiente. Essa experiência contribuiu para um ambiente de trabalho mais produtivo e colaborativo, promovendo uma abordagem ágil e focada nas necessidades do cliente.
 
