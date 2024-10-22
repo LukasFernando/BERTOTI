@@ -17,12 +17,12 @@ No momento, meus conhecimentos desenvolvidos na FATEC são:
 
 ## Portfolio
 ### 3º Semestre - Controle de Jornada
-No segundo semestre de 2023, a empresa [2RP](https://2rpnet.com.br/) pediu um programa para controlar as horas extras e sobreaviso dos funcionarios, onde tinha varias funcionalidades como adicionar usuario/cliente/CR(Centro de Resultado), adicionar uma hora extra/sobreaviso, aprovar/reprovar horas extras/sobreaviso, entre outras funcionalidades. Assim, a empresa [2RP](https://2rpnet.com.br/) teria uma melhor visibilidade das horas extras/sobreaviso de seus funcionarios. Para saber mais sobre o projeto visite nosso [Repositório no Github](https://github.com/LukasFernando/FATEC-API-3_Semestre-Dragon).
+No primeiro semestre de 2024, a empresa [Oracle](https://www.oracle.com/br/) pediu um programa para controlar as expertise e certificações dos seus parceiros. Assim, teria um acompanhamento das empresas parceiras da Oracle, por meio de graficos para a visualização de dados de forma inteligente, facilitando a identificação de melhorias e de conclusões estratégicas, alem de ter uma visibilidade da performance das empresas parceiras. Para saber mais sobre o projeto visite nosso [Repositório no Github](https://github.com/LukasFernando/FATEC-API-3_Semestre-Dragon).
 
 <div> Mockup do projeto </div>
 <details>
+
  
- ![2023-10-03-22-48-40](https://github.com/dragonfatec/Projeto-web/assets/94874696/78bfbdb7-6a59-4ebf-8093-bcbd70001a35)
 
 </details>
 
@@ -57,25 +57,7 @@ No 3° Semestre as tecnologias usadas foram:
 </details>
 
 ### Hard Skills
-Durante o segundo semestre de 2023, adquiri habilidades essenciais para desenvolver projetos com 
-Java e JPA (Java Persistence API), aprimorando-me na utilização de cada componente do JPA, incluindo 
-Entity, Repository, DTO (Data Transfer Objects) e Service, além de aprender a estruturar pastas 
-de forma eficiente. Também aprimorei minhas habilidades em utilizar bancos de dados em conjunto com a 
-linguagem Java, compreendendo os conceitos fundamentais de conexão com o banco de dados, execução de 
-consultas SQL e manipulação de resultados. Explorei as funcionalidades do Spring Boot em conjunto com 
-Java e MySQL, facilitando o desenvolvimento rápido de aplicações web e aproveitando as vantagens do 
-ecossistema Spring para criar sistemas escaláveis e de alta qualidade. Adquiri conhecimentos sobre 
-como realizar requisições do JavaScript para o backend Java, essencial para o desenvolvimento de 
-aplicações web interativas e dinâmicas.
 
 
 ### Soft Skills
-Durante o segundo semestre de 2023, aprimorei minhas habilidades de comunicação, reconhecendo a importância 
-de transmitir informações de maneira clara, concisa e eficaz, tanto dentro da equipe de desenvolvimento 
-quanto para os clientes. Aprendi a ouvir ativamente as necessidades e preocupações de todos os envolvidos 
-no projeto, facilitando a comunicação entre diferentes partes interessadas e promovendo um ambiente 
-colaborativo e produtivo. Além disso, explorei e me familiarizei com diversas ferramentas que se tornaram 
-essenciais para meu trabalho como Product Owner, adotando o Figma e o Canva para design e prototipagem, e 
-aprofundando meu conhecimento em ferramentas de gerenciamento de projetos, como Jira e GitHub, para acompanhar 
-o progresso das tarefas e colaborar com a equipe de desenvolvimento de maneira mais eficaz.
 
