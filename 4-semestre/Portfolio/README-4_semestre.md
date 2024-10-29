@@ -51,7 +51,7 @@ No 3° Semestre as tecnologias usadas foram:
 ##### Diagrama MER 
 <details>
 
-![image](https://github.com/dragonfatec/Projeto-web/assets/107444159/63630370-4875-4d81-932c-e9126994a1b0)
+![image](https://github.com/user-attachments/assets/bbc40e70-e644-496c-a59b-8be5c963da1e)
 
 </details>
 
