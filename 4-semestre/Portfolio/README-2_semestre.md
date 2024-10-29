@@ -22,7 +22,7 @@ No primeiro semestre de 2023, a empresa [2RP](https://2rpnet.com.br/) pediu um p
 <div> Mockup do projeto </div>
 <details>
  
- ![2023-10-03-22-48-40](https://github.com/dragonfatec/Projeto-web/assets/94874696/78bfbdb7-6a59-4ebf-8093-bcbd70001a35)
+https://user-images.githubusercontent.com/111617449/229277325-9ba27ca7-5a0c-4368-9787-75d5b2127dc4.mp4
 
 </details>
 
@@ -47,7 +47,7 @@ No 2° Semestre as tecnologias usadas foram:
 ##### Diagrama MER 
 <details>
 
-![image](https://github.com/dragonfatec/Projeto-web/assets/107444159/63630370-4875-4d81-932c-e9126994a1b0)
+![image](https://user-images.githubusercontent.com/111617449/229276548-1e06eba6-4375-4105-a716-d6ac273abda0.png)
 
 </details>
 
