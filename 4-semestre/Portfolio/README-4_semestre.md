@@ -22,7 +22,31 @@ No primeiro semestre de 2024, a empresa [Oracle](https://www.oracle.com/br/) ped
 <div> Mockup do projeto </div>
 <details>
 
+ ![image](https://github.com/user-attachments/assets/02255cea-b86e-47e7-aae9-e36c271c3ed3)
+
+</details>
+
+<details>
+
+![image](https://github.com/user-attachments/assets/6f130753-4326-41fb-a3b6-3dcebba0129a)
+
+</details>
+
+<details>
+
+![image](https://github.com/user-attachments/assets/6a7131fb-e452-425f-85b0-237feb4a68e8)
+
+</details>
+
+<details>
  
+![image](https://github.com/user-attachments/assets/ab77ca38-d411-4ceb-ae57-c266e0e65fa8)
+
+</details>
+
+<details>
+
+![image](https://github.com/user-attachments/assets/692accc1-12ab-4de3-b428-9c75fc1ae89f)
 
 </details>
 
