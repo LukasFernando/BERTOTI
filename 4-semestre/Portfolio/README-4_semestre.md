@@ -51,7 +51,7 @@ No primeiro semestre de 2024, a empresa [Oracle](https://www.oracle.com/br/) ped
 </details>
 
 ### Tecnologias Utilizadas
-No 3° Semestre as tecnologias usadas foram: 
+No 4° Semestre as tecnologias usadas foram: 
 ##### **Back End**
   * Java
   * Spring Boot
