@@ -16,7 +16,7 @@ No momento, meus conhecimentos desenvolvidos na FATEC são:
 * SQL
 
 ## Portfolio
-### 4º Semestre - Controle de Jornada
+### 5º Semestre - Controle de Jornada
 No primeiro semestre de 2024, a empresa [Oracle](https://www.oracle.com/br/) pediu um programa para controlar as expertise e certificações dos seus parceiros. Assim, teria um acompanhamento das empresas parceiras da Oracle, por meio de graficos para a visualização de dados de forma inteligente, facilitando a identificação de melhorias e de conclusões estratégicas, alem de ter uma visibilidade da performance das empresas parceiras. Para saber mais sobre o projeto visite nosso [Repositório no Github](https://github.com/LukasFernando/FATEC-API-3_Semestre-Dragon).
 
 <div> Mockup do projeto </div>
