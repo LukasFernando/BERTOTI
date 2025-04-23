@@ -36,15 +36,14 @@ https://github.com/user-attachments/assets/58ae0a9d-3960-439f-8e10-f8648e28d2bb
 No 6° Semestre as tecnologias usadas foram: 
 ##### **Back End**
   * Python
-  * Java
-  * Spring Boot
 ##### **Front End** 
   * React
   * HTML
   * CSS
   * TypeScript
 ##### **Banco de Dados** 
-  * MySQL
+  * PostgreSQL
+  * MongoDB
 ##### **Security**
   * JWT (JSON Web Tokens)
 
