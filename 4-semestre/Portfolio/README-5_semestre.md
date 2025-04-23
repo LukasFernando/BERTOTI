@@ -14,6 +14,7 @@ No momento, meus conhecimentos desenvolvidos na FATEC são:
 * HTML
 * CSS
 * SQL
+* NoSQL
 
 ## Portfolio
 ### 5º Semestre - Processo de Recrutamento e Seleção
