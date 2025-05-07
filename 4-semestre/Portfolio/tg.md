@@ -1,7 +1,7 @@
 # Lukas Fernando Berto
 
 ## Introdução
-Meu nome é Lukas, estou estudando Banco De Dados na FATEC, gosto da area de TI desde o primeiro print("Hello World"). A primeira linguagem de programação que aprendi foi o Python (é por isso que gostei de TI kk), e depois comecei a estudar HTML, CSS e JavaScript com o Guanabara (se esta começando a aprender a programar assista alguns videos do [Guanabara](https://www.youtube.com/@CursoemVideo)). E quando entrei na FATEC eu aprendi Java no 2° semestre (no primeiro foi Python).
+Meu nome é Lukas, estou cursando Banco de Dados na FATEC. Entrei na FATEC por recomendação e escolhi esse curso porque era o que possuía mais disciplinas técnicas voltadas para a área de TI — além das boas recomendações que recebi. Tenho interesse na área de TI desde o meu primeiro print("Hello World"). A primeira linguagem de programação que aprendi foi Python. Após entender a lógica da programação, iniciei meus estudos em Java.
 
 ## Contatos
 * [Github](https://github.com/LukasFernando)
