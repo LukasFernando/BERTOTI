@@ -102,7 +102,7 @@ No 2° Semestre as tecnologias usadas foram:
 -----
 
 ### 3º Semestre - Controle de Jornada
-No segundo semestre de 2023, a empresa [2RP](https://2rpnet.com.br/) pediu um programa para controlar as horas extras e sobreaviso dos funcionarios, onde tinha varias funcionalidades como adicionar usuario/cliente/CR(Centro de Resultado), adicionar uma hora extra/sobreaviso, aprovar/reprovar horas extras/sobreaviso, entre outras funcionalidades. Assim, a empresa [2RP](https://2rpnet.com.br/) teria uma melhor visibilidade das horas extras/sobreaviso de seus funcionarios. Para saber mais sobre o projeto visite nosso [Repositório no Github](https://github.com/LukasFernando/FATEC-API-3_Semestre-Dragon).
+No primeiro semestre de 2023, a empresa [2RP](https://2rpnet.com.br/) solicitou um programa para controlar as horas extras e sobreaviso dos funcionários, com várias funcionalidades, como adicionar usuários, clientes e CRs (Centro de Resultado), registrar horas extras e sobreaviso, aprovar/reprovar horas extras/sobreaviso, entre outras funcionalidades. Dessa forma, a empresa [2RP](https://2rpnet.com.br/) teria uma melhor visibilidade das horas extras e sobreaviso de seus funcionários. Para resolver esse problema, criamos um software desktop para gerenciar as horas extras e sobreaviso dos funcionários, no qual o funcionário registra suas horas, e o gerente, além de aprovar, pode visualizar as horas extras de seus subordinados. Para saber mais sobre o projeto visite nosso [Repositório no Github](https://github.com/LukasFernando/FATEC-API-3_Semestre-Dragon).
 
 <div> Mockup do projeto </div>
 <details>
@@ -175,7 +175,7 @@ No 3° Semestre as tecnologias usadas foram:
 -----
 
 ### 4º Semestre - Controle de Jornada
-No primeiro semestre de 2024, a empresa [Oracle](https://www.oracle.com/br/) pediu um programa para controlar as expertise e certificações dos seus parceiros. Assim, teria um acompanhamento das empresas parceiras da Oracle, por meio de graficos para a visualização de dados de forma inteligente, facilitando a identificação de melhorias e de conclusões estratégicas, alem de ter uma visibilidade da performance das empresas parceiras. Para saber mais sobre o projeto visite nosso [Repositório no Github](https://github.com/LukasFernando/FATEC-API-3_Semestre-Dragon).
+No primeiro semestre de 2024, a empresa [Oracle](https://www.oracle.com/br/) solicitou um programa para controlar as expertises e certificações de seus parceiros. Assim, seria possível realizar o acompanhamento das empresas parceiras da [Oracle](https://www.oracle.com/br/) por meio de gráficos para a visualização de dados de forma inteligente, facilitando a identificação de melhorias e a obtenção de conclusões estratégicas, além de proporcionar uma melhor visibilidade da performance das empresas parceiras. Construímos uma aplicação com React e uma API em Java, que inclui todas as funcionalidades necessárias, como o cadastro de cada certificação e a análise do progresso dos parceiros. Para saber mais sobre o projeto visite nosso [Repositório no Github](https://github.com/LukasFernando/FATEC-API-3_Semestre-Dragon).
 
 <div> Mockup do projeto </div>
 <details>
@@ -267,6 +267,15 @@ No 4° Semestre as tecnologias usadas foram:
   - Promoção de um ambiente de trabalho produtivo e alinhado com metodologias ágeis.
 
 -----
+### 5º Semestre - Processo de Recrutamento e Seleção
+No segundo semestre de 2024, a empresa [Pro4tech](https://www.pro4tech.com.br/) solicitou um programa com dashboards interativo para centralizar e visualizar dados do processo de recrutamento e seleção de uma empresa. Para resolver esse problema, criamos uma aplicação em que cada candidato consegue cadastrar seus dados e acompanhar o processo seletivo para saber se foi aprovado ou não para a vaga. Cada candidatura também recebe um feedback do entrevistador. Para saber mais sobre o projeto visite nosso [Repositório no Github](https://github.com/LukasFernando/FATEC-API-5_Semestre-Main-Localhost/tree/main).
+
+<div> Mockup do projeto </div>
+<details>
+
+[Screencast from 2024-09-29 22-07-52.webm](https://github.com/user-attachments/assets/030b4637-d812-46d1-9c0b-a8343941f8b8)
+
+</details>
 
 ### Tecnologias Utilizadas
 No 5° Semestre as tecnologias usadas foram: 
@@ -332,7 +341,9 @@ No 5° Semestre as tecnologias usadas foram:
 -----
 
 ### 6º Semestre - Processo de Recrutamento e Seleção
-No segundo semestre de 2024, a empresa [Pro4tech](https://www.pro4tech.com.br/) desenvolver um dashboard interativo para centralizar e visualizar dados do processo de recrutamento e seleção de uma empresa. Para saber mais sobre o projeto visite nosso [Repositório no Github](https://github.com/LukasFernando/FATEC-API-5_Semestre-Main-Localhost/tree/main).
+No segundo semestre de 2024, a empresa [Kersys](https://kersys.com.br/) solicitou um programa para gerenciamento de reflorestamento, para ter o controle de quantas arvores plantadas, CO2 evitado, entre ouras informações. Para resolver esse problema, criamos uma aplicação para salvar todos os "logs" (dados mensais enviados das empresas que fizeram o reflorestamento) para ter o controle das informações ao longo do tempo, assim com as aanalises pode comparar o inicio e o mes atual, para saber como esta os status das arvores e das areas.
+
+No segundo semestre de 2024, a empresa [Kersys](https://kersys.com.br/) solicitou um programa para o gerenciamento de reflorestamento, com o objetivo de controlar a quantidade de árvores plantadas, o CO₂ evitado, entre outras informações. Para resolver esse problema, criamos uma aplicação capaz de armazenar todos os "logs" (dados mensais enviados pelas empresas responsáveis pelo reflorestamento), permitindo o controle das informações ao longo do tempo. Com essas análises, é possível comparar o início do processo com o mês atual e entender o status das árvores e das áreas reflorestadas. Para saber mais sobre o projeto visite nosso [Repositório no Github](https://github.com/LukasFernando/FATEC-API-5_Semestre-Main-Localhost/tree/main).
 
 <div> Mockup do projeto </div>
 <details>
