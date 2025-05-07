@@ -172,3 +172,216 @@ No 3° Semestre as tecnologias usadas foram:
   - Utilização de Figma e Canva para design e prototipagem.  
   - Aprofundamento no uso de Jira e GitHub para gerenciamento de tarefas e colaboração com a equipe.
 
+-----
+
+### 4º Semestre - Controle de Jornada
+No primeiro semestre de 2024, a empresa [Oracle](https://www.oracle.com/br/) pediu um programa para controlar as expertise e certificações dos seus parceiros. Assim, teria um acompanhamento das empresas parceiras da Oracle, por meio de graficos para a visualização de dados de forma inteligente, facilitando a identificação de melhorias e de conclusões estratégicas, alem de ter uma visibilidade da performance das empresas parceiras. Para saber mais sobre o projeto visite nosso [Repositório no Github](https://github.com/LukasFernando/FATEC-API-3_Semestre-Dragon).
+
+<div> Mockup do projeto </div>
+<details>
+
+ ![image](https://github.com/user-attachments/assets/02255cea-b86e-47e7-aae9-e36c271c3ed3)
+
+</details>
+
+<details>
+
+![image](https://github.com/user-attachments/assets/6f130753-4326-41fb-a3b6-3dcebba0129a)
+
+</details>
+
+<details>
+
+![image](https://github.com/user-attachments/assets/6a7131fb-e452-425f-85b0-237feb4a68e8)
+
+</details>
+
+<details>
+ 
+![image](https://github.com/user-attachments/assets/ab77ca38-d411-4ceb-ae57-c266e0e65fa8)
+
+</details>
+
+<details>
+
+![image](https://github.com/user-attachments/assets/692accc1-12ab-4de3-b428-9c75fc1ae89f)
+
+</details>
+
+### Tecnologias Utilizadas
+No 4° Semestre as tecnologias usadas foram: 
+##### **Back End**
+  * Java
+  * Spring Boot
+##### **Front End** 
+  * Vue
+  * HTML
+  * CSS
+  * JavaScript
+##### **Banco de Dados** 
+  * MySQL
+##### **Security**
+  * JWT (JSON Web Tokens)
+    
+#### Contribuições Pessoais
+* Utilização e organização do Java com o JPA. <details> Adquiri habilidades essenciais para desenvolver projetos com Java e JPA (Java Persistence API). Aprofundei-me na utilização de cada componente do JPA, incluindo Entity, Repository, DTO (Data Transfer Objects) e Service, além de aprender a estruturar minhas pastas de forma eficiente. Essa organização contribuiu significativamente para a clareza e manutenção do código, facilitando a implementação e evolução do projeto ao longo do tempo. </details>
+* Utilização e organização do Vue.js. <details> Aprendi a trabalhar com Vue.js, um framework progressivo para construção de interfaces de usuário. Explorei conceitos fundamentais como por exemplo os componentes, o que me permitiu criar aplicações dinâmicas e responsivas. A estrutura de componentes do Vue facilitou a reutilização de código e a organização do projeto, enquanto a integração com bibliotecas como Vue Router e Vuex ampliou minha compreensão sobre gerenciamento de estado e navegação. Essa experiência me capacitou a desenvolver interfaces de usuário mais interativas e eficientes, melhorando significativamente a experiência do usuário. </details>
+* Utilização do Spring Boot com Java e MySQL. <details> Explorei as funcionalidades do Spring Boot em conjunto com Java e MySQL. O Spring Boot oferece uma estrutura poderosa para o desenvolvimento rápido de aplicações, facilitando a configuração e o gerenciamento de dependências. Com o suporte integrado ao MySQL, pude desenvolver aplicações web de forma ágil e eficaz, aproveitando as vantagens do ecossistema Spring para criar sistemas escaláveis e de alta qualidade. </details>
+* Realização de requisições do JavaScript para o Java. <details> Adquiri conhecimentos sobre como realizar requisições do JavaScript para o backend Java. Essa habilidade é essencial para o desenvolvimento de aplicações web interativas e dinâmicas, permitindo a comunicação assíncrona entre o frontend e o backend. Por meio do Spring Boot, pude implementar funcionalidades que respondem de forma rápida e eficiente às solicitações dos usuários, proporcionando uma experiência fluida e responsiva. </details>
+
+##### Diagrama MER 
+<details>
+
+![image](https://github.com/user-attachments/assets/bbc40e70-e644-496c-a59b-8be5c963da1e)
+
+</details>
+
+### Hard Skills
+- **Java e JPA (Java Persistence API)**  
+  - Aprofundamento no uso de Entity, Repository, DTO (Data Transfer Object) e Service.
+
+- **Vue.js**  
+  - Criação de componentes e integração com bibliotecas como Vue Router e Vuex.  
+  - Desenvolvimento de interfaces de usuário com um framework progressivo.
+
+- **Spring Boot com Java e MySQL**  
+  - Continuidade no uso da estrutura para desenvolvimento ágil de aplicações web.
+
+- **Integração Front-end e Back-end**  
+  - Realização de requisições JavaScript para o backend Java.  
+  - Comunicação assíncrona eficaz entre frontend e backend.
+
+- **Gerenciamento de Projetos**  
+  - Utilização de ferramentas como Jira e GitHub.  
+  - Acompanhamento do desenvolvimento e colaboração com a equipe.
+
+### Soft Skills
+- **Comunicação Eficaz**  
+  - Transmissão clara e eficiente de informações com a equipe e stakeholders.
+
+- **Trabalho em Equipe**  
+  - Colaboração ativa e valorização da troca de ideias para o sucesso dos projetos.
+
+- **Gerenciamento e Organização**  
+  - Priorização e organização de tarefas com Jira e GitHub.  
+  - Promoção de um ambiente de trabalho produtivo e alinhado com metodologias ágeis.
+
+-----
+
+### Tecnologias Utilizadas
+No 5° Semestre as tecnologias usadas foram: 
+##### **Back End**
+  * Python
+  * Java
+  * Spring Boot
+##### **Front End** 
+  * React
+  * HTML
+  * CSS
+  * TypeScript
+##### **Banco de Dados** 
+  * MySQL
+##### **Security**
+  * JWT (JSON Web Tokens)
+
+#### Contribuições Pessoais
+* Docker <details> Aprendi a utilizar o Docker para containerizar as aplicações do projeto, o que melhorou a consistência e a portabilidade do ambiente de desenvolvimento e produção, facilitando a execução em diferentes plataformas e aumentando a eficiência da equipe. </details>
+* GitHub <details> Ao longo do semestre, me aprofundei no uso de ferramentas avançadas do GitHub, como GitHub Packages, GitHub Variables, GitHub Secrets e GitHub Actions. Estas ferramentas foram essenciais para otimizar o fluxo de trabalho, gerenciar variáveis de ambiente de forma segura e automatizar o pipeline de CI/CD. </details>
+* Deploy Automático na AWS <details> Contribuí para a automação do deploy na AWS utilizando Lambda. Utilizando o GitHub Actions, implementei um pipeline de integração contínua para realizar o deploy automático da imagem Docker diretamente na instância Lambda, garantindo uma integração mais rápida e eficiente das novas versões do sistema. </details>
+* Desenvolvimento de Soluções com Python para ETL <details> Colaborei com a equipe trazendo ideias e soluções para o processo de ETL do sistema, utilizando Python. Contribuí para otimizar o fluxo de dados, garantindo maior eficiência e escalabilidade no processamento. </details>
+* Gestão Ágil e Facilitador de Scrum <details> Como Scrum Master, fui responsável por facilitar a comunicação entre os membros da equipe, removendo obstáculos que impediam o progresso. Promovi reuniões diárias de standups, planos de sprints e retrospectivas, o que contribuiu para melhorar a eficiência do time e garantir que entregássemos os marcos do projeto no tempo estipulado. </details>
+* Novas Ferramentas: Jira e GitHub <details> Durante o segundo semestre de 2024, explorei e me familiarizei com diversas ferramentas que se tornaram essenciais para o meu trabalho como Desenvolvedor. Aprofundei meu conhecimento no GitHub e Jira, utilizando para acompanhar o desenvolvimento das outras pessoas e evitando conflitos de versões do projeto por meio da comunicação com a equipe de desenvolvimento de maneira mais eficaz. </details>
+
+##### Diagrama MER   
+<details>
+
+![image](https://github.com/user-attachments/assets/1c3f0ad0-8954-49be-b26e-a065e78e5f01)
+
+</details>
+
+### Hard Skills
+- **Docker**  
+  - Containerização das aplicações para maior consistência entre ambientes de desenvolvimento e produção.  
+  - Facilidade de execução em diferentes plataformas.
+
+- **GitHub Avançado**  
+  - Uso de GitHub Packages, GitHub Variables, GitHub Secrets e GitHub Actions.  
+  - Automação do pipeline de CI/CD e gerenciamento seguro de variáveis de ambiente.
+
+- **AWS Lambda e Integração Contínua**  
+  - Implementação de pipelines de deploy automático com GitHub Actions.  
+  - Integração ágil e eficiente de novas versões do sistema.
+
+- **Python e ETL**  
+  - Desenvolvimento de soluções para automação e otimização do processo de ETL.  
+  - Aumento da eficiência e escalabilidade no fluxo de dados.
+
+- **Gerenciamento de Projetos**  
+  - Uso de ferramentas como Jira e GitHub para comunicação, organização e versionamento de código.
+
+### Soft Skills
+- **Scrum Master**  
+  - Facilitação da comunicação e organização da equipe com reuniões diárias, planejamentos de sprint e retrospectivas.  
+
+- **Comunicação e Colaboração**  
+  - Contribuí com a proposta de salvar um arquivo JSON contendo a estrutura das tabelas, incluindo todas as colunas e seus respectivos tipos de dados, a fim de facilitar o processo de ETL e melhorar a comunicação entre as etapas de desenvolvimento.
+
+- **Adaptação a Novas Ferramentas**  
+  - Integração eficaz de tecnologias como GitHub e AWS ao fluxo de trabalho, contribuindo para a implementação de práticas DevOps e otimizando o ciclo de desenvolvimento, incluindo automação de deploys e criação automática de branches.  
+
+-----
+
+### 6º Semestre - Processo de Recrutamento e Seleção
+No segundo semestre de 2024, a empresa [Pro4tech](https://www.pro4tech.com.br/) desenvolver um dashboard interativo para centralizar e visualizar dados do processo de recrutamento e seleção de uma empresa. Para saber mais sobre o projeto visite nosso [Repositório no Github](https://github.com/LukasFernando/FATEC-API-5_Semestre-Main-Localhost/tree/main).
+
+<div> Mockup do projeto </div>
+<details>
+
+https://github.com/user-attachments/assets/b31513f2-7300-4c2a-9eef-77439e0d104b
+
+</details>
+
+<details>
+
+https://github.com/user-attachments/assets/58ae0a9d-3960-439f-8e10-f8648e28d2bb
+
+</details>
+
+### Tecnologias Utilizadas
+Durante o 6° semestre, foram utilizadas diversas tecnologias que permitiram a construção de uma aplicação robusta e escalável:
+
+#### Contribuições Pessoais
+* Docker <details> Utilizei o Docker para containerizar as aplicações do projeto, o que proporcionou maior consistência entre os ambientes de desenvolvimento e produção. Isso facilitou a execução da aplicação em diferentes plataformas e aumentou a produtividade da equipe, eliminando problemas de configuração local. </details>
+* Aprimoramento em Python <details> Aprofundei meus conhecimentos em Python desenvolvendo APIs com o framework Flask. Trabalhei na integração dessas APIs com bancos de dados relacionais (PostgreSQL) e não relacionais (MongoDB), utilizando containers Docker para garantir portabilidade e escalabilidade do ambiente. </details>
+* LGPD e Portabilidade de Dados <details> Implementei uma API responsável por garantir a portabilidade dos dados do usuário, em conformidade com a LGPD. Essa API permite que os usuários reutilizem suas informações armazenadas na API principal do projeto, reforçando o compromisso com a privacidade e a segurança dos dados. Além disso, utilizei técnicas de criptografia simétrica e assimétrica para proteger os dados sensíveis. Os dados são criptografados com uma chave simétrica e, em seguida, essa chave é criptografada com a chave pública da API requisitante. Isso garante que apenas a API de destino consiga descriptografar e acessar as informações, promovendo confidencialidade e segurança ponta-a-ponta durante o processo de portabilidade. </details>
+* Criptografia aplicada à proteção de dados <details> Implementei uma solução de segurança baseada em criptografia híbrida para o processo de portabilidade de dados. A criptografia simétrica (AES) foi utilizada para proteger os dados do usuário, enquanto a chave usada nesse processo foi protegida com criptografia assimétrica (RSA), utilizando a chave pública da API requisitante. Essa abordagem garantiu segurança no transporte e acesso restrito às informações sensíveis, reforçando os princípios da LGPD e demonstrando a aplicação prática de técnicas de criptografia avançadas no contexto de APIs. </details>
+
+##### Diagrama MER
+<details>  
+
+
+
+</details>
+
+### Hard Skills
+- **Desenvolvimento de APIs com Python e Flask**  
+  - Aplicação de boas práticas de integração com bancos de dados SQL e NoSQL.
+  
+- **Containerização com Docker**  
+  - Utilização do Docker para facilitar o deploy e o gerenciamento da aplicação.
+
+- **Segurança e Autenticação**  
+  - Implementação de autenticação JWT para proteger as rotas e dados da API.
+
+- **API com foco em LGPD**  
+  - Participação ativa no desenvolvimento de uma API voltada à conformidade com a LGPD.
+  - Garantia de interoperabilidade entre sistemas de forma segura e transparente.
+
+- **Criptografia Híbrida (Segurança de Dados)**  
+  - Utilização de criptografia simétrica (AES) para proteger dados sensíveis.
+  - Aplicação de criptografia assimétrica (RSA) para proteger a chave simétrica.
+  - Garantia de confidencialidade, integridade e segurança ponta-a-ponta no processo de portabilidade de dados.
+
+### Soft Skills
+- **Trabalho em Equipe e Colaboração**  
+  - Participação ativa em reuniões de planejamento e sprints, sugerindo ideias como gráficos e soluções técnicas para a API.
