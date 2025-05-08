@@ -1,4 +1,10 @@
 # Lukas Fernando Berto
+## Colocar foto
+
+## Nivel de proficiência:
+Ja ouvi falar
+Sei fazer com ajuda
+Sei fazer sozinho
 
 ## Introdução
 Meu nome é Lukas, estou cursando Banco de Dados na FATEC. Entrei na FATEC por recomendação e escolhi esse curso Banco de Dados porque era o que possuía mais disciplinas técnicas voltadas para a área de TI. Tenho interesse na área de TI desde o meu primeiro print("Hello World"), quando estava criando minha primeira aplicação em 2021: uma calculadora. A primeira linguagem de programação que aprendi foi Python. Após entender a lógica da programação, iniciei meus estudos em Java.
@@ -36,11 +42,11 @@ No 1° Semestre as tecnologias usadas foram:
 
 ### Hard Skills
 - **Python**  
-  - Utilização de bibliotecas como `hashlib`, `json`, `findall` e `eel` para diferentes finalidades.
+  - Utilização de bibliotecas como `hashlib`, `json`, `findall` e `eel` para diferentes finalidades. Nivel de proficiência: `Sei fazer com ajuda`.
 - **JavaScript e HTML**  
-  - Experiência no desenvolvimento de interfaces front-end.
+  - Experiência no desenvolvimento de interfaces front-end. Nivel de proficiência: `Sei fazer com ajuda`.
 - **Manipulação de dados com JSON**  
-  - Aplicação em projetos com armazenamento e estruturação de dados.
+  - Aplicação em projetos com armazenamento e estruturação de dados. Nivel de proficiência: `Sei fazer sozinho`.
 
 ### Soft Skills
 - **Comunicação**  
@@ -71,10 +77,9 @@ No 2° Semestre as tecnologias usadas foram:
   * MySQL
 
 #### Contribuições Pessoais
-* Utilização do Java. <details> Aprendi a linguagem de programação Java, compreendendo sua sintaxe, estrutura e tópicos como programação orientada a objetos. Além disso, pratiquei a criação de pequenos projetos, que me ajudaram a solidificar meu entendimento e a aplicar as teorias na prática, especialmente em contextos de desenvolvimento de software. </details>
+* Utilização do banco de dados com Java. <details> Aprendi a linguagem de programação Java, compreendendo sua sintaxe, estrutura e tópicos como programação orientada a objetos. Com esse aprendizado consegui desenvolver algumas funcionalidades, como por exemplo a lógica de lançar uma hora extra e salvar no banco de dados MySQL. </details>
 * Utilização e organização do JavaFX. <details> Conheci o JavaFX, uma biblioteca para desenvolvimento de interfaces gráficas. Aprendi a criar componentes de interface de usuário, como botões, tabelas e formulários, além de entender a arquitetura de aplicativos JavaFX, que inclui o uso de controladores. </details>
-* Utilização do banco de dados com Java. <details> Utilizei o banco de dados MySQL para armazenar dados do aplicativo desenvolvido. Aprendi a estabelecer conexões entre Java e o MySQL, utilizando JDBC para executar consultas SQL. Trabalhei com operações CRUD (Create, Read, Update, Delete), o que me permitiu manipular eficientemente os dados. </details>
-* Comunicação. <details> Aprimorei minhas habilidades de comunicação de forma significativa durante o primeiro semestre de 2023. Reconheci a importância de transmitir informações de maneira clara, concisa e eficaz, tanto dentro da equipe de desenvolvimento quanto para os clientes. Participei de reuniões regulares, onde pratiquei a apresentação de ideias e feedbacks construtivos. Aprendi a ouvir ativamente as necessidades e preocupações de todos os envolvidos no projeto, facilitando a comunicação entre diferentes partes interessadas e promovendo um ambiente colaborativo e produtivo. </details>
+* Utilização do banco de dados com Java. <details> Utilizei o banco de dados MySQL para armazenar dados do aplicativo desenvolvido. Aprendi a estabelecer conexões entre Java e o MySQL, utilizando JDBC para executar consultas SQL. Trabalhei com operações CRUD (Create, Read, Update, Delete), o que me permitiu manipular eficientemente os dados, como por exemplo salvar as horas extras, editar os dados do usuário e excluir o usuário. </details>
 
 ##### Diagrama MER 
 <details>
@@ -85,14 +90,12 @@ No 2° Semestre as tecnologias usadas foram:
 
 ### Hard Skills
 - **Java**  
-  - Desenvolvimento orientado a objetos e criação de projetos práticos. 
-  - Utilização de JavaFX para desenvolvimento de interfaces gráficas com componentes interativos.
-  - Separação entre lógica de negócio e apresentação.
+  - Desenvolvimento em Java. Nivel de proficiência: `Sei fazer sozinho`.
+  - Utilização de JavaFX para desenvolvimento de interfaces gráficas com componentes interativos. Nivel de proficiência: `Sei fazer com ajuda`.
 
 - **Integração com Banco de Dados**  
-  - Conexão entre Java e MySQL utilizando JDBC.
-  - Realização de operações CRUD.  
-  - Escrita de consultas SQL eficientes.
+  - Conexão entre Java e MySQL utilizando JDBC. Nivel de proficiência: `Sei fazer com ajuda`.
+  - Escrita de consultas SQL eficientes. Nivel de proficiência: `Sei fazer sozinho`.
 
 ### Soft Skills
 - **Comunicação**  
