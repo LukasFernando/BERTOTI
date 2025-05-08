@@ -1,7 +1,7 @@
 # Lukas Fernando Berto
 
 ## Introdução
-Meu nome é Lukas, estou cursando Banco de Dados na FATEC. Entrei na FATEC por recomendação e escolhi esse curso Banco de Dados porque era o que possuía mais disciplinas técnicas voltadas para a área de TI. Tenho interesse na área de TI desde o meu primeiro print("Hello World"). A primeira linguagem de programação que aprendi foi Python. Após entender a lógica da programação, iniciei meus estudos em Java.
+Meu nome é Lukas, estou cursando Banco de Dados na FATEC. Entrei na FATEC por recomendação e escolhi esse curso Banco de Dados porque era o que possuía mais disciplinas técnicas voltadas para a área de TI. Tenho interesse na área de TI desde o meu primeiro print("Hello World"), quando estava criando minha primeira aplicação em 2021: uma calculadora. A primeira linguagem de programação que aprendi foi Python. Após entender a lógica da programação, iniciei meus estudos em Java.
 
 ## Contatos
 * [Github](https://github.com/LukasFernando)
@@ -18,7 +18,7 @@ No momento, meus conhecimentos desenvolvidos na FATEC são:
 
 ## Portfolio
 ### 1º Semestre - Controle de Jornada
-No segundo semestre de 2022, a empresa parceira do projeto foi a própria FATEC. Os professores Lucas Nadalete (P2 - o cliente para os alunos) e o Fabiano Sabha (S2 - SM para os alunos), o problema era a dificuldade de realizar uma dinâmica de Avaliação Democratizada baseada na técnica de Avaliação 360º, para todas as equipes e de forma anônima. Para atender a essa demanda, implementamos o sistema de forma que todas as avaliações fossem anônimas. Apenas o gerente de cada time poderia visualizar os resultados, e ainda assim, apenas de maneira geral, sem acesso individual às avaliações. Para saber mais sobre o projeto visite nosso [Repositório no Github](https://github.com/LukasFernando/FATEC-API-1_Semestre-Falcon).
+No segundo semestre de 2022, a empresa parceira do projeto foi a própria FATEC. Os professores responsáveis eram Lucas Nadalete (P2 - o cliente para os alunos) e o Fabiano Sabha (S2 - SM para os alunos). O problema proposto era a dificuldade de realizar uma dinâmica de Avaliação Democratizada baseada na técnica de Avaliação 360º, para todas as equipes e de forma anônima. Para atender a essa demanda, implementamos o sistema de forma que todas as avaliações fossem anônimas. Apenas o gerente de cada time poderia visualizar os resultados, e ainda assim, apenas de maneira geral, sem acesso individual às avaliações. Para saber mais sobre o projeto visite nosso [Repositório no Github](https://github.com/LukasFernando/FATEC-API-1_Semestre-Falcon).
 
 ### Tecnologias Utilizadas
 No 1° Semestre as tecnologias usadas foram: 
@@ -51,7 +51,7 @@ No 1° Semestre as tecnologias usadas foram:
 -----
 
 ### 2º Semestre - Controle de Jornada
-No primeiro semestre de 2023, a empresa [2RP](https://2rpnet.com.br/) solicitou um programa para controlar as horas extras e sobreaviso dos funcionários, com várias funcionalidades, como adicionar usuários, clientes e CRs (Centro de Resultado), registrar horas extras e sobreaviso, aprovar/reprovar horas extras/sobreaviso, entre outras funcionalidades. Dessa forma, a empresa [2RP](https://2rpnet.com.br/) teria uma melhor visibilidade das horas extras e sobreaviso de seus funcionários. Para resolver esse problema, criamos um software desktop para gerenciar as horas extras e sobreaviso dos funcionários, no qual o funcionário registra suas horas, e o gerente, além de aprovar, pode visualizar as horas extras de seus subordinados. Para saber mais sobre o projeto visite nosso [Repositório no Github](https://github.com/LukasFernando/FATEC-API-2_Semestre-Dragon).
+No primeiro semestre de 2023, a empresa [2RP](https://2rpnet.com.br/). O problema proposto era desenvolver uma solução para controlar as horas extras e sobreaviso dos funcionários, com várias funcionalidades, como adicionar usuários, clientes e CRs (Centro de Resultado), registrar horas extras e sobreaviso, aprovar/reprovar horas extras/sobreaviso, entre outras funcionalidades. Dessa forma, a empresa [2RP](https://2rpnet.com.br/) teria uma melhor visibilidade das horas extras e sobreaviso de seus funcionários. Para resolver esse problema, criamos um software desktop para gerenciar as horas extras e sobreaviso dos funcionários, no qual o funcionário registra suas horas, e o gerente, além de aprovar, pode visualizar as horas extras de seus subordinados. Para saber mais sobre o projeto visite nosso [Repositório no Github](https://github.com/LukasFernando/FATEC-API-2_Semestre-Dragon).
 
 <div> Mockup do projeto </div>
 <details>
