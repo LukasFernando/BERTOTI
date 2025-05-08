@@ -31,7 +31,7 @@ No 1° Semestre as tecnologias usadas foram:
 
 #### Contribuições Pessoais
 * Utilização de Python e suas bibliotecas. <details> Aprimorei minhas habilidades em Python e em algumas bibliotecas, como `hashlib`, `json`, `findall`, `eel`, entre outras. Utilizei essas bibliotecas para a criptografia de senhas de usuários (`hashlib`), integração entre Python e JavaScript (`eel`), entre outras aplicações. </details>
-* JavaScript e HTML. <details> Aprendi JavaScript e HTML, e com esse aprendizado conseui ajudar meus colegas quando o tinha erros frontend e a mehorar as telas e botões. </details>
+* JavaScript e HTML. <details> Aprendi JavaScript e HTML, e com esse aprendizado consegui ajudar meus colegas no desenvolvimento das telas de cadastro e dos botões, e ajudei também quando o tinha erro na lógica do frontend. </details>
 * JSON para armazenar dados. <details> Aprendi a utilizar JSON para armazenar os dados gerados pela aplicação, como, por exemplo, informações de usuários, avaliações, equipes, entre outros. </details>
 
 ### Hard Skills
