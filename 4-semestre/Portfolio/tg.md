@@ -1,7 +1,7 @@
 # Lukas Fernando Berto
 
 ## Introdução
-Meu nome é Lukas, estou cursando Banco de Dados na FATEC. Entrei na FATEC por recomendação e escolhi esse curso porque era o que possuía mais disciplinas técnicas voltadas para a área de TI — além das boas recomendações que recebi. Tenho interesse na área de TI desde o meu primeiro print("Hello World"). A primeira linguagem de programação que aprendi foi Python. Após entender a lógica da programação, iniciei meus estudos em Java.
+Meu nome é Lukas, estou cursando Banco de Dados na FATEC. Entrei na FATEC por recomendação e escolhi esse curso Banco de Dados porque era o que possuía mais disciplinas técnicas voltadas para a área de TI. Tenho interesse na área de TI desde o meu primeiro print("Hello World"). A primeira linguagem de programação que aprendi foi Python. Após entender a lógica da programação, iniciei meus estudos em Java.
 
 ## Contatos
 * [Github](https://github.com/LukasFernando)
@@ -18,8 +18,7 @@ No momento, meus conhecimentos desenvolvidos na FATEC são:
 
 ## Portfolio
 ### 1º Semestre - Controle de Jornada
-No segundo semestre de 2022, a empresa parceira do projeto foi a própria FATEC. Os professores solicitaram o desenvolvimento de um sistema de Avaliação Democratizada, baseado na técnica de Avaliação 360º — onde todos os integrantes de um grupo avaliam uns aos outros.
-O software deveria permitir a criação de vários times, cada um com múltiplos integrantes, e cada time teria sua própria avaliação. Para atender a essa demanda, implementamos o sistema de forma que todas as avaliações fossem anônimas. Apenas o gerente de cada time poderia visualizar os resultados, e ainda assim, apenas de maneira geral, sem acesso individual às avaliações. Para saber mais sobre o projeto visite nosso [Repositório no Github](https://github.com/LukasFernando/FATEC-API-1_Semestre-Falcon).
+No segundo semestre de 2022, a empresa parceira do projeto foi a própria FATEC. Os professores Lucas Nadalete (P2 - o cliente para os alunos) e o Fabiano Sabha (S2 - SM para os alunos), o problema era a dificuldade de realizar uma dinâmica de Avaliação Democratizada baseada na técnica de Avaliação 360º, para todas as equipes e de forma anônima. Para atender a essa demanda, implementamos o sistema de forma que todas as avaliações fossem anônimas. Apenas o gerente de cada time poderia visualizar os resultados, e ainda assim, apenas de maneira geral, sem acesso individual às avaliações. Para saber mais sobre o projeto visite nosso [Repositório no Github](https://github.com/LukasFernando/FATEC-API-1_Semestre-Falcon).
 
 ### Tecnologias Utilizadas
 No 1° Semestre as tecnologias usadas foram: 
@@ -32,8 +31,8 @@ No 1° Semestre as tecnologias usadas foram:
 
 #### Contribuições Pessoais
 * Utilização de Python e suas bibliotecas. <details> Aprimorei minhas habilidades em Python e em algumas bibliotecas, como `hashlib`, `json`, `findall`, `eel`, entre outras. Utilizei essas bibliotecas para a criptografia de senhas de usuários (`hashlib`), integração entre Python e JavaScript (`eel`), entre outras aplicações. </details>
-* JavaScript e HTML. <details> Aprendi JavaScript e HTML e ajudei no desenvolvimento do front-end. </details>
-* JSON para armazenar dados. <details> Utilizamos o JSON para armazenar os dados do software, então consegui aprimorar minhas habilidades em utilizar com o Python. </details>
+* JavaScript e HTML. <details> Aprendi JavaScript e HTML, e com esse aprendizado conseui ajudar meus colegas quando o tinha erros frontend e a mehorar as telas e botões. </details>
+* JSON para armazenar dados. <details> Aprendi a utilizar JSON para armazenar os dados gerados pela aplicação, como, por exemplo, informações de usuários, avaliações, equipes, entre outros. </details>
 
 ### Hard Skills
 - **Python**  
@@ -44,10 +43,10 @@ No 1° Semestre as tecnologias usadas foram:
   - Aplicação em projetos com armazenamento e estruturação de dados.
 
 ### Soft Skills
-- **Comunicação e Colaboração**  
-  - Apoio técnico à equipe de desenvolvimento, contribuindo com soluções tanto no back-end (Python) quanto no front-end (JavaScript, HTML e CSS).
-- **Integração de Soluções**  
-  - Contribuição no design do front-end com sugestões focadas em melhorar a experiência e a interface do usuário (UI/UX).
+- **Comunicação**  
+  - Fiz sugestões de como melhorar a experiência e a interface do usuário (UI/UX), adicionando botões ao lado da tela. Isso reduziu o espaço em branco, já que era uma tela de cadastro com poucas informações, e o excesso de espaço deixava a tela visualmente estranha.
+- **Colaboração**  
+  - Como era o primeiro semestre e eu era o único que já conhecia Python e JavaScript, ajudei meus colegas com a lógica de programação, tanto no back-end (Python) quanto no front-end (JavaScript, HTML e CSS). Por exemplo, contribui na implementação da verificação de permissões de acesso para o cadastro de usuários.
 
 -----
 
