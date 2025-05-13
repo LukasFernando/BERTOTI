@@ -27,6 +27,8 @@ No momento, meus conhecimentos desenvolvidos na FATEC são:
 ### 1º Semestre - Controle de Jornada
 No segundo semestre de 2022, a empresa parceira do projeto foi a própria FATEC. Os professores responsáveis eram Lucas Nadalete (P2 - o cliente para os alunos) e o Fabiano Sabha (S2 - SM para os alunos). O problema proposto era a dificuldade de realizar uma dinâmica de Avaliação Democratizada baseada na técnica de Avaliação 360º, para todas as equipes e de forma anônima. Para atender a essa demanda, implementamos o sistema de forma que todas as avaliações fossem anônimas. Apenas o gerente de cada time poderia visualizar os resultados, e ainda assim, apenas de maneira geral, sem acesso individual às avaliações. Para saber mais sobre o projeto visite nosso [Repositório no Github](https://github.com/LukasFernando/FATEC-API-1_Semestre-Falcon).
 
+-----
+
 ### Tecnologias Utilizadas
 No 1° Semestre as tecnologias usadas foram: 
 ##### **Back End**
