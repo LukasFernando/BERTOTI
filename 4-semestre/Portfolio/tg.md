@@ -316,7 +316,22 @@ https://github.com/user-attachments/assets/58ae0a9d-3960-439f-8e10-f8648e28d2bb
 </details>
 
 ### Tecnologias Utilizadas
-Durante o 6° semestre, foram utilizadas diversas tecnologias que permitiram a construção de uma aplicação robusta e escalável:
+No 6° Semestre as tecnologias usadas foram: 
+##### **Back End**
+  * Python
+##### **Front End** 
+  * Vite
+  * Ant Design
+  * HTML
+  * CSS
+  * TypeScript
+  * Charts
+##### **Banco de Dados** 
+  * PostgreSQL
+  * SQLite
+  * MongoDB
+##### **Security**
+  * JWT (JSON Web Tokens)
 
 #### Contribuições Pessoais
 * Docker <details> Utilizei o Docker para containerizar as aplicações do projeto, o que proporcionou maior consistência entre os ambientes de desenvolvimento e produção. Isso facilitou a execução da aplicação em diferentes plataformas e aumentou a produtividade da equipe, eliminando problemas de configuração local. </details>
