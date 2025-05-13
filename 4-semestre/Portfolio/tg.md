@@ -207,12 +207,8 @@ No 4° Semestre as tecnologias usadas foram:
   * JWT (JSON Web Tokens)
     
 #### Contribuições Pessoais
-* Utilização e organização do Java com o JPA. <details> Adquiri habilidades essenciais para desenvolver projetos com Java e JPA (Java Persistence API). Aprofundei-me na utilização de cada componente do JPA, incluindo Entity, Repository, DTO (Data Transfer Objects) e Service, além de aprender a estruturar minhas pastas de forma eficiente. Essa organização contribuiu significativamente para a clareza e manutenção do código, facilitando a implementação e evolução do projeto ao longo do tempo. </details>
-* Utilização do Spring Boot com Java e MySQL. <details> Explorei as funcionalidades do Spring Boot em conjunto com Java e MySQL. O Spring Boot oferece uma estrutura poderosa para o desenvolvimento rápido de aplicações, facilitando a configuração e o gerenciamento de dependências. Com o suporte integrado ao MySQL, pude desenvolver aplicações web de forma ágil e eficaz, aproveitando as vantagens do ecossistema Spring para criar sistemas escaláveis e de alta qualidade. </details>
-
-* Utilização e organização do Vue.js. <details> Aprendi a trabalhar com Vue.js, um framework progressivo para construção de interfaces de usuário. Explorei conceitos fundamentais como por exemplo os componentes, o que me permitiu criar aplicações dinâmicas e responsivas. A estrutura de componentes do Vue facilitou a reutilização de código e a organização do projeto, enquanto a integração com bibliotecas como Vue Router e Vuex ampliou minha compreensão sobre gerenciamento de estado e navegação. Essa experiência me capacitou a desenvolver gráfico, como a quantidade de certificações de cada parceiro ... . </details>
-
-* Realização de requisições do JavaScript para o Java. <details> Adquiri conhecimentos sobre como realizar requisições do JavaScript para o backend Java. Essa habilidade é essencial para o desenvolvimento de aplicações web interativas e dinâmicas, permitindo a comunicação assíncrona entre o frontend e o backend. Por meio do Spring Boot, pude implementar funcionalidades que respondem de forma rápida e eficiente às solicitações dos usuários. Por exemplo, criei um gráfico para mostrar a quantidade de certificações de cada parceiro. Para isso, precisei utilizar os dados do banco de dados por meio da API em Java. </details>
+* Desenvolvimento com Java, JPA, Spring Boot e MySQL. <details> Aprimorei minhas habilidades no desenvolvimento de projetos utilizando Java, JPA e Spring Boot. Trabalhei com componentes do JPA, como Entity, Repository, DTO e Service, além de refinar a organização da estrutura de pastas, o que facilitou a manutenção e evolução do código. No contexto do Spring Boot, explorei sua integração com Java e MySQL, aproveitando a estrutura para desenvolver aplicações web ágeis e escaláveis, contribuindo diretamente para a construção de endpoints REST, como por exemplo um que retorna a quantidade de certificações dos últimos meses. </details>
+* Desenvolvimento com Vue.js e integração com backend em Java. <details> Utilizei o Vue.js para criar interfaces dinâmicas e bem organizadas, explorando componentes e Vue Router. Trabalhei também na integração com o backend em Java, usando Spring Boot para construir a API que permitisse a comunicação entre frontend e banco de dados. Um exemplo foi o desenvolvimento de um gráfico com a quantidade de certificações dos últimos meses, consumindo dados da API e exibindo-os na interface. </details>
 
 ##### Diagrama MER 
 <details>
@@ -223,35 +219,21 @@ No 4° Semestre as tecnologias usadas foram:
 
 ### Hard Skills
 - **Java e JPA (Java Persistence API)**  
-  - Aprofundamento no uso de Entity, Repository, DTO (Data Transfer Object) e Service.
+  - Aprofundamento no uso de Entity, Repository, DTO (Data Transfer Object) e Service. Nivel de proficiência: `Sei fazer sozinho`.
 
 - **Vue.js**  
-  - Criação de componentes e integração com bibliotecas como Vue Router e Vuex.  
-  - Desenvolvimento de interfaces de usuário com um framework progressivo.
-
-- **Spring Boot com Java e MySQL**  
-  - Continuidade no uso da estrutura para desenvolvimento ágil de aplicações web.
+  - Criação de componentes e integração com bibliotecas como Vue Router. Nivel de proficiência: `Sei fazer sozinho`.
+  - Desenvolvimento de gráficos. Nivel de proficiência: `Sei fazer sozinho`.
 
 - **Integração Front-end e Back-end**  
-  - Realização de requisições JavaScript para o backend Java.  
-  - Comunicação assíncrona eficaz entre frontend e backend.
-
-- **Gerenciamento de Projetos**  
-  - Utilização de ferramentas como Jira e GitHub.  
-  - Acompanhamento do desenvolvimento e colaboração com a equipe.
+  - Realização de requisições JavaScript para o backend Java. Nivel de proficiência: `Sei fazer sozinho`.
 
 ### Soft Skills
-- **Comunicação Eficaz**  
-  - Transmissão clara e eficiente de informações com a equipe e stakeholders.
-
-- **Trabalho em Equipe**  
-  - Colaboração ativa e valorização da troca de ideias para o sucesso dos projetos.
-
-- **Gerenciamento e Organização**  
-  - Priorização e organização de tarefas com Jira e GitHub.  
-  - Promoção de um ambiente de trabalho produtivo e alinhado com metodologias ágeis.
+- **Colaboração**  
+  - Contribuí com a ideia de fixar a quantidade de meses exibidos em alguns gráficos, permitindo que o usuário escolha entre 1, 2, 3, 6 ou 12 meses, o que tornou a visualização mais simples e intuitiva.
 
 -----
+
 ### 5º Semestre - Processo de Recrutamento e Seleção
 No segundo semestre de 2024, a empresa [Pro4tech](https://www.pro4tech.com.br/) solicitou um programa com dashboards interativo para centralizar e visualizar dados do processo de recrutamento e seleção de uma empresa. Para resolver esse problema, criamos uma aplicação em que cada candidato consegue cadastrar seus dados e acompanhar o processo seletivo para saber se foi aprovado ou não para a vaga. Cada candidatura também recebe um feedback do entrevistador. Para saber mais sobre o projeto visite nosso [Repositório no Github](https://github.com/LukasFernando/FATEC-API-5_Semestre-Main-Localhost/tree/main).
 
