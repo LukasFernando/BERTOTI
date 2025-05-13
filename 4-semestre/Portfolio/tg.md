@@ -299,7 +299,7 @@ No 5° Semestre as tecnologias usadas foram:
 
 -----
 
-### 6º Semestre - Processo de Recrutamento e Seleção
+### 6º Semestre - Gerenciamento de Reflorestamento
 No segundo semestre de 2024, a empresa parceira foi a [Kersys](https://kersys.com.br/). O problema proposto era desenvolver um programa para o gerenciamento de reflorestamento, com o objetivo de controlar a quantidade de árvores plantadas, o CO₂ evitado, entre outras informações. Para resolver esse problema, criamos uma aplicação capaz de armazenar todos os "logs" (dados mensais enviados pelas empresas responsáveis pelo reflorestamento), permitindo o controle das informações ao longo do tempo. Com essas análises, é possível comparar o início do processo com o mês atual e entender o status das árvores e das áreas reflorestadas. Para saber mais sobre o projeto visite nosso [Repositório no Github](https://github.com/LukasFernando/FATEC-API-5_Semestre-Main-Localhost/tree/main).
 
 <div> Mockup do projeto </div>
