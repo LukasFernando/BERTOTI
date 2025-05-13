@@ -5,6 +5,7 @@
 Ja ouvi falar
 Sei fazer com ajuda
 Sei fazer sozinho
+Sei ensinar
 
 ## Introdução
 Meu nome é Lukas, estou cursando Banco de Dados na FATEC. Entrei na FATEC por recomendação e escolhi esse curso Banco de Dados porque era o que possuía mais disciplinas técnicas voltadas para a área de TI. Tenho interesse na área de TI desde o meu primeiro print("Hello World"), quando estava criando minha primeira aplicação em 2021: uma calculadora. A primeira linguagem de programação que aprendi foi Python. Após entender a lógica da programação, iniciei meus estudos em Java.
@@ -49,15 +50,14 @@ No 1° Semestre as tecnologias usadas foram:
   - Aplicação em projetos com armazenamento e estruturação de dados. Nivel de proficiência: `Sei fazer sozinho`.
 
 ### Soft Skills
-- **Comunicação**  
-  - Fiz sugestões de como melhorar a experiência e a interface do usuário (UI/UX), adicionando botões ao lado da tela. Isso reduziu o espaço em branco, já que era uma tela de cadastro com poucas informações, e o excesso de espaço deixava a tela visualmente estranha.
 - **Colaboração**  
   - Como era o primeiro semestre e eu era o único que já conhecia Python e JavaScript, ajudei meus colegas com a lógica de programação, tanto no back-end (Python) quanto no front-end (JavaScript, HTML e CSS). Por exemplo, contribui na implementação da verificação de permissões de acesso para o cadastro de usuários.
+  - Fiz sugestões de como melhorar a experiência e a interface do usuário (UI/UX), adicionando botões ao lado da tela. Isso reduziu o espaço em branco, já que era uma tela de cadastro com poucas informações, e o excesso de espaço deixava a tela visualmente estranha.
 
 -----
 
 ### 2º Semestre - Controle de Jornada
-No primeiro semestre de 2023, a empresa [2RP](https://2rpnet.com.br/). O problema proposto era desenvolver uma solução para controlar as horas extras e sobreaviso dos funcionários, com várias funcionalidades, como adicionar usuários, clientes e CRs (Centro de Resultado), registrar horas extras e sobreaviso, aprovar/reprovar horas extras/sobreaviso, entre outras funcionalidades. Dessa forma, a empresa [2RP](https://2rpnet.com.br/) teria uma melhor visibilidade das horas extras e sobreaviso de seus funcionários. Para resolver esse problema, criamos um software desktop para gerenciar as horas extras e sobreaviso dos funcionários, no qual o funcionário registra suas horas, e o gerente, além de aprovar, pode visualizar as horas extras de seus subordinados. Para saber mais sobre o projeto visite nosso [Repositório no Github](https://github.com/LukasFernando/FATEC-API-2_Semestre-Dragon).
+No primeiro semestre de 2023, a empresa a empresa parceira foi [2RP](https://2rpnet.com.br/). O problema proposto era desenvolver uma solução para controlar as horas extras e sobreaviso dos funcionários, com várias funcionalidades, como adicionar usuários, clientes, CRs (Centro de Resultado), registrar horas extras e sobreaviso, aprovar/reprovar horas extras/sobreaviso, entre outras funcionalidades. Dessa forma, a empresa [2RP](https://2rpnet.com.br/) teria uma melhor visibilidade das horas extras e sobreaviso de seus funcionários. Para resolver esse problema, desenvolvemos um software desktop para gerenciar as horas extras e sobreaviso dos funcionários, no qual o funcionário registra suas horas, e o gerente, além de aprovar, pode visualizar as horas extras de seus subordinados. Para saber mais sobre o projeto visite nosso [Repositório no Github](https://github.com/LukasFernando/FATEC-API-2_Semestre-Dragon).
 
 <div> Mockup do projeto </div>
 <details>
@@ -78,7 +78,7 @@ No 2° Semestre as tecnologias usadas foram:
 
 #### Contribuições Pessoais
 * Utilização do banco de dados com Java. <details> Aprendi a linguagem de programação Java, compreendendo sua sintaxe, estrutura e tópicos como programação orientada a objetos. Com esse aprendizado consegui desenvolver algumas funcionalidades, como por exemplo a lógica de lançar uma hora extra e salvar no banco de dados MySQL. </details>
-* Utilização e organização do JavaFX. <details> Conheci o JavaFX, uma biblioteca para desenvolvimento de interfaces gráficas. Aprendi a criar componentes de interface de usuário, como botões, tabelas e formulários, além de entender a arquitetura de aplicativos JavaFX, que inclui o uso de controladores. </details>
+* Utilização e organização do JavaFX. <details> Conheci o JavaFX, uma biblioteca para desenvolvimento de interfaces gráficas. Aprendi a criar e apliquei no software alguns componentes de interface de usuário, como botões, tabelas e formulários, além de entender a arquitetura de aplicativos JavaFX, que inclui o uso de controladores. </details>
 * Utilização do banco de dados com Java. <details> Utilizei o banco de dados MySQL para armazenar dados do aplicativo desenvolvido. Aprendi a estabelecer conexões entre Java e o MySQL, utilizando JDBC para executar consultas SQL. Trabalhei com operações CRUD (Create, Read, Update, Delete), o que me permitiu manipular eficientemente os dados, como por exemplo salvar as horas extras, editar os dados do usuário e excluir o usuário. </details>
 
 ##### Diagrama MER 
@@ -98,13 +98,13 @@ No 2° Semestre as tecnologias usadas foram:
   - Escrita de consultas SQL eficientes. Nivel de proficiência: `Sei fazer sozinho`.
 
 ### Soft Skills
-- **Comunicação**  
-  - Melhoria na clareza e eficácia da transmissão de informações.
+- **?????**  
+  - ?????
 
 -----
 
 ### 3º Semestre - Controle de Jornada
-No primeiro semestre de 2023, a empresa [2RP](https://2rpnet.com.br/) solicitou um programa para controlar as horas extras e sobreaviso dos funcionários, com várias funcionalidades, como adicionar usuários, clientes e CRs (Centro de Resultado), registrar horas extras e sobreaviso, aprovar/reprovar horas extras/sobreaviso, entre outras funcionalidades. Dessa forma, a empresa [2RP](https://2rpnet.com.br/) teria uma melhor visibilidade das horas extras e sobreaviso de seus funcionários. Para resolver esse problema, criamos um software desktop para gerenciar as horas extras e sobreaviso dos funcionários, no qual o funcionário registra suas horas, e o gerente, além de aprovar, pode visualizar as horas extras de seus subordinados. Para saber mais sobre o projeto visite nosso [Repositório no Github](https://github.com/LukasFernando/FATEC-API-3_Semestre-Dragon).
+No segundo semestre de 2023, a empresa parceira foi [2RP](https://2rpnet.com.br/). O problema proposto era desenvolver uma solução para controlar as horas extras e sobreaviso dos funcionários, com várias funcionalidades, como adicionar usuários, clientes, CRs (Centro de Resultado) e parametrizacção das horas extras (parametrização é o cálculo do valor final das horas extras. Por exemplo, se for de sexta para sábado, há acréscimo noturno junto com o acréscimo de final de semana), registrar horas extras e sobreaviso, aprovar/reprovar horas extras/sobreaviso, entre outras funcionalidades. Dessa forma, a empresa [2RP](https://2rpnet.com.br/) teria uma melhor visibilidade das horas extras e sobreaviso de seus funcionários. Para resolver esse problema, desenvolvemos um aplicativo web para gerenciar as horas extras e sobreaviso dos funcionários, no qual o funcionário registra suas horas, e o gerente, além de aprovar, pode visualizar as horas extras de seus subordinados. Para saber mais sobre o projeto visite nosso [Repositório no Github](https://github.com/LukasFernando/FATEC-API-2_Semestre-Dragon).
 
 <div> Mockup do projeto </div>
 <details>
@@ -134,7 +134,7 @@ No 3° Semestre as tecnologias usadas foram:
 * Realização de requisições do JavaScript para o Java. <details> Adquiri conhecimentos sobre como realizar requisições do JavaScript para o backend Java. Essa habilidade é essencial para o desenvolvimento de aplicações web interativas e dinâmicas, permitindo a comunicação assíncrona entre o frontend e o backend. Por meio do Spring Boot, pude implementar funcionalidades que respondem de forma rápida e eficiente às solicitações dos usuários, proporcionando uma experiência fluida e responsiva. </details>
 * Responsabilidade e Entendimento do Scrum. <details> Dediquei-me a compreender melhor meu papel como Product Owner (PO) dentro do framework Scrum. Como PO, aprendi a gerenciar o backlog do produto, priorizar as necessidades dos clientes e facilitar a entrega contínua de valor. Além disso, explorei os princípios e práticas do Scrum, entendendo como as iterações, reuniões e artefatos contribuem para o desenvolvimento ágil de projetos. </details>
 * Comunicação. <details> Aprimorei minhas habilidades de comunicação de forma significativa durante o segundo semestre de 2023. Reconheci a importância de transmitir informações de maneira clara, concisa e eficaz, tanto dentro da equipe de desenvolvimento quanto para os clientes. Aprendi a ouvir ativamente as necessidades e preocupações de todos os envolvidos no projeto, facilitando a comunicação entre diferentes partes interessadas e promovendo um ambiente colaborativo e produtivo. </details>
-* Novas ferramentas, por exemplo Figma, Canva, Jira e GitHub. <details> Explorei e me familiarizei com diversas ferramentas que se tornaram essenciais para o meu trabalho como Product Owner. No campo do design e prototipagem, adotei o Figma e o Canva, permitindo-me criar wireframes e mockups de forma mais eficiente e colaborativa. Além disso, aprofundei meu conhecimento em ferramentas de gerenciamento de projetos, como Jira e GitHub, utilizando-as para acompanhar o progresso das tarefas, gerenciar o backlog e colaborar com a equipe de desenvolvimento de maneira mais eficaz. </details>
+* Novas ferramentas, por exemplo Figma, Canva, Jira e GitHub. <details> Explorei e me familiarizei com diversas ferramentas que se tornaram essenciais para o meu trabalho como Product Owner. No campo do design e prototipagem, adotei o Figma e o Canva, permitindo-me criar wireframes e mockups das telas do aplicativo de forma mais eficiente e colaborativa. Além disso, aprofundei meu conhecimento em ferramentas de gerenciamento de projetos, como Jira e GitHub, utilizando-as para acompanhar o progresso das tarefas, gerenciar o backlog e colaborar com a equipe de desenvolvimento de maneira mais eficaz. </details>
 
 ##### Diagrama MER 
 <details>
