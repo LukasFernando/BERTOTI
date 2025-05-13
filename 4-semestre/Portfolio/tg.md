@@ -334,10 +334,9 @@ No 6° Semestre as tecnologias usadas foram:
   * JWT (JSON Web Tokens)
 
 #### Contribuições Pessoais
-* Docker <details> Utilizei o Docker para containerizar as aplicações do projeto, o que proporcionou maior consistência entre os ambientes de desenvolvimento e produção. Isso facilitou a execução da aplicação em diferentes plataformas e aumentou a produtividade da equipe, eliminando problemas de configuração local. </details>
-* Aprimoramento em Python <details> Aprofundei meus conhecimentos em Python desenvolvendo APIs com o framework Flask. Trabalhei na integração dessas APIs com bancos de dados relacionais (PostgreSQL) e não relacionais (MongoDB), utilizando containers Docker para garantir portabilidade e escalabilidade do ambiente. </details>
-* LGPD e Portabilidade de Dados <details> Implementei uma API responsável por garantir a portabilidade dos dados do usuário, em conformidade com a LGPD. Essa API permite que os usuários reutilizem suas informações armazenadas na API principal do projeto, reforçando o compromisso com a privacidade e a segurança dos dados. Além disso, utilizei técnicas de criptografia simétrica e assimétrica para proteger os dados sensíveis. Os dados são criptografados com uma chave simétrica e, em seguida, essa chave é criptografada com a chave pública da API requisitante. Isso garante que apenas a API de destino consiga descriptografar e acessar as informações, promovendo confidencialidade e segurança ponta-a-ponta durante o processo de portabilidade. </details>
-* Criptografia aplicada à proteção de dados <details> Implementei uma solução de segurança baseada em criptografia híbrida para o processo de portabilidade de dados. A criptografia simétrica (AES) foi utilizada para proteger os dados do usuário, enquanto a chave usada nesse processo foi protegida com criptografia assimétrica (RSA), utilizando a chave pública da API requisitante. Essa abordagem garantiu segurança no transporte e acesso restrito às informações sensíveis, reforçando os princípios da LGPD e demonstrando a aplicação prática de técnicas de criptografia avançadas no contexto de APIs. </details>
+* Aprimoramento em Python. <details> Aprofundei meus conhecimentos em Python desenvolvendo APIs com o framework Flask. Trabalhei na integração dessas APIs com bancos de dados relacionais (PostgreSQL) e não relacionais (MongoDB), utilizando containers Docker para garantir portabilidade e escalabilidade do ambiente. </details>
+* LGPD e Portabilidade de Dados. <details> Implementei uma API responsável por garantir a portabilidade dos dados do usuário, em conformidade com a LGPD. Essa API permite que os usuários reutilizem suas informações armazenadas na API principal do projeto, reforçando o compromisso com a privacidade e a segurança dos dados. Além disso, utilizei técnicas de criptografia simétrica e assimétrica para proteger os dados sensíveis. Os dados são criptografados com uma chave simétrica e, em seguida, essa chave é criptografada com a chave pública da API requisitante. Isso garante que apenas a API de destino consiga descriptografar e acessar as informações, promovendo confidencialidade e segurança ponta-a-ponta durante o processo de portabilidade. </details>
+* Criptografia aplicada à proteção de dados. <details> Implementei uma solução de segurança baseada em criptografia híbrida para o processo de portabilidade de dados. A criptografia simétrica (AES) foi utilizada para proteger os dados do usuário, enquanto a chave usada nesse processo foi protegida com criptografia assimétrica (RSA), utilizando a chave pública da API requisitante. Essa abordagem garantiu segurança no transporte e acesso restrito às informações sensíveis, reforçando os princípios da LGPD e demonstrando a aplicação prática de técnicas de criptografia avançadas no contexto de APIs. </details>
 
 ##### Diagrama MER
 <details>  
@@ -348,23 +347,16 @@ No 6° Semestre as tecnologias usadas foram:
 
 ### Hard Skills
 - **Desenvolvimento de APIs com Python e Flask**  
-  - Aplicação de boas práticas de integração com bancos de dados SQL e NoSQL.
+  - Aplicação de boas práticas de integração com bancos de dados SQL e NoSQL. Nivel de proficiência: `Sei fazer sozinho`.
   
-- **Containerização com Docker**  
-  - Utilização do Docker para facilitar o deploy e o gerenciamento da aplicação.
-
-- **Segurança e Autenticação**  
-  - Implementação de autenticação JWT para proteger as rotas e dados da API.
-
-- **API com foco em LGPD**  
-  - Participação ativa no desenvolvimento de uma API voltada à conformidade com a LGPD.
-  - Garantia de interoperabilidade entre sistemas de forma segura e transparente.
+- **API para LGPD**  
+  - Desenvolvi uma API para viabilizar a portabilidade dos dados do usuário. Nivel de proficiência: `Sei fazer sozinho`.
 
 - **Criptografia Híbrida (Segurança de Dados)**  
-  - Utilização de criptografia simétrica (AES) para proteger dados sensíveis.
-  - Aplicação de criptografia assimétrica (RSA) para proteger a chave simétrica.
-  - Garantia de confidencialidade, integridade e segurança ponta-a-ponta no processo de portabilidade de dados.
+  - Utilização de criptografia simétrica (AES) para proteger dados sensíveis. Nivel de proficiência: `Sei fazer sozinho`.
+  - Aplicação de criptografia assimétrica (RSA) para proteger a chave simétrica. Nivel de proficiência: `Sei fazer sozinho`.
+  - Garantia de confidencialidade, integridade e segurança ponta-a-ponta no processo de portabilidade de dados. Nivel de proficiência: `Sei fazer sozinho`.
 
 ### Soft Skills
-- **Trabalho em Equipe e Colaboração**  
-  - Participação ativa em reuniões de planejamento e sprints, sugerindo ideias como gráficos e soluções técnicas para a API.
+- **Colaboração**  
+  - Participei ativamente de reuniões de planejamento e sprints, contribuindo com sugestões de gráficos e soluções técnicas para a API, como formas de realizar o upload de arquivos CSV utilizando DataFrame do Pandas.
