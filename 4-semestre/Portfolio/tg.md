@@ -128,12 +128,8 @@ No 3° Semestre as tecnologias usadas foram:
   * JWT (JSON Web Tokens)
     
 #### Contribuições Pessoais
-* Utilização e organização do Java com o JPA. <details> Adquiri habilidades essenciais para desenvolver projetos com Java e JPA (Java Persistence API). Aprofundei-me na utilização de cada componente do JPA, incluindo Entity, Repository, DTO (Data Transfer Objects) e Service, além de aprender a estruturar minhas pastas de forma eficiente. Essa organização contribuiu significativamente para a clareza e manutenção do código, facilitando a implementação e evolução do projeto ao longo do tempo. </details>
-* Utilização do banco de dados com Java. <details> Aprimorei minhas habilidades em utilizar bancos de dados em conjunto com a linguagem Java. Compreendi os conceitos fundamentais de conexão com o banco de dados, execução de consultas SQL e manipulação de resultados. Essa competência é essencial para o desenvolvimento de aplicações robustas e escaláveis, permitindo o armazenamento e recuperação eficientes de dados necessários para o funcionamento do sistema. </details>
-* Utilização do Spring Boot com Java e MySQL. <details> Explorei as funcionalidades do Spring Boot em conjunto com Java e MySQL. O Spring Boot oferece uma estrutura poderosa para o desenvolvimento rápido de aplicações, facilitando a configuração e o gerenciamento de dependências. Com o suporte integrado ao MySQL, pude desenvolver aplicações web de forma ágil e eficaz, aproveitando as vantagens do ecossistema Spring para criar sistemas escaláveis e de alta qualidade. </details>
-
-* Comunicação. <details> Aprimorei minhas habilidades de comunicação. Reconheci a importância de transmitir informações de maneira clara, concisa e eficaz, tanto dentro da equipe de desenvolvimento quanto para os clientes. Aprendi a ouvir ativamente as necessidades e preocupações de todos os envolvidos no projeto, facilitando a comunicação entre diferentes partes interessadas e promovendo um ambiente colaborativo e produtivo. </details>
-
+* Utilização do Spring Boot com Java e MySQL. <details> Explorei as funcionalidades do Spring Boot em conjunto com Java e MySQL. O Spring Boot oferece uma estrutura poderosa para o desenvolvimento rápido de aplicações, facilitando a configuração e o gerenciamento de dependências. Com o suporte integrado ao MySQL, pude desenvolver funcionalidades como a parametrização, calculando o valor total das horas extras de um determinado funcionário. </details>
+* Comunicação. <details> Aprimorei minhas habilidades de comunicação. Reconheci a importância de transmitir informações de maneira clara, concisa e eficaz, tanto dentro da equipe de desenvolvimento quanto para os clientes. Aprendi a ouvir ativamente as necessidades e preocupações de todos os envolvidos no projeto, facilitando o entendimento do time de desenvolvimento ao adicionar uma descrição clara sobre as regras de negócio nas User Stories e Tasks. </details>
 * Novas ferramentas, por exemplo Figma, Canva, Jira e GitHub. <details> Explorei e me familiarizei com diversas ferramentas que se tornaram essenciais para o meu trabalho como Product Owner. No campo do design e prototipagem, adotei o Figma e o Canva, permitindo-me criar wireframes e mockups das telas do aplicativo de forma mais eficiente e colaborativa. Além disso, aprofundei meu conhecimento em ferramentas de gerenciamento de projetos, como Jira e GitHub, utilizando-as para acompanhar o progresso das tarefas, gerenciar o backlog e colaborar com a equipe de desenvolvimento de maneira mais eficaz. </details>
 
 ##### Diagrama MER 
@@ -145,34 +141,19 @@ No 3° Semestre as tecnologias usadas foram:
 
 ### Hard Skills
 - **Java e JPA (Java Persistence API)**  
-  - Utilização de componentes como Entity, Repository, DTO (Data Transfer Object) e Service.  
-  - Estruturação eficiente de pastas e camadas do projeto.
-
-- **Banco de Dados com Java**  
-  - Conexão com banco de dados.  
-  - Execução de consultas SQL e manipulação dos resultados.
+  - Utilização de componentes como Entity, Repository, DTO (Data Transfer Object) e Service. Nivel de proficiência: `Sei fazer sozinho`.
+  - Estruturação eficiente de pastas e camadas do projeto. Nivel de proficiência: `Sei fazer sozinho`.
+  - Execução de consultas SQL e manipulação dos resultados. Nivel de proficiência: `Sei ensinar`.
 
 - **Spring Boot com Java e MySQL**  
-  - Desenvolvimento rápido de aplicações web.  
-  - Criação de sistemas escaláveis e de alta qualidade com o ecossistema Spring.
-
-- **Integração Front-end e Back-end**  
-  - Realização de requisições JavaScript para o backend em Java.  
-  - Desenvolvimento de aplicações web interativas e dinâmicas.
+  - Desenvolvimento de aplicações web. Nivel de proficiência: `Sei fazer sozinho`.
 
 ### Soft Skills
-- **Comunicação Eficaz**  
-  - Transmissão clara, concisa e eficiente de informações.  
-  - Comunicação entre equipe de desenvolvimento e clientes.  
-  - Escuta ativa para entender necessidades e preocupações.
+- **Comunicação**  
+  - Escuta ativa para entender necessidades e preocupações da equipe de desenvolvimento e clientes.
 
-- **Trabalho em Equipe e Liderança**  
-  - Facilitação da colaboração entre partes interessadas.  
-  - Promoção de um ambiente produtivo e cooperativo.
-
-- **Ferramentas de Design e Gerenciamento de Projetos**  
-  - Utilização de Figma e Canva para design e prototipagem.  
-  - Aprofundamento no uso de Jira e GitHub para gerenciamento de tarefas e colaboração com a equipe.
+- **Colaboração**  
+  - Criei alguns mockups para sugerir ao time de desenvolvimento algumas ideias de como poderiam ser as telas, como a de lançamento de horas extras.
 
 -----
 
