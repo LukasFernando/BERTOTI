@@ -235,7 +235,7 @@ No 4° Semestre as tecnologias usadas foram:
 -----
 
 ### 5º Semestre - Processo de Recrutamento e Seleção
-No segundo semestre de 2024, a empresa parceira foi [Pro4tech](https://www.pro4tech.com.br/). O problema proposto era desenvolverum programa com dashboards interativo para centralizar e visualizar dados do processo de recrutamento e seleção de uma empresa. Para resolver esse problema, criamos uma aplicação em que cada candidato consegue cadastrar seus dados e acompanhar o processo seletivo para saber se foi aprovado ou não para a vaga. Cada candidatura também recebe um feedback do entrevistador. Para saber mais sobre o projeto visite nosso [Repositório no Github](https://github.com/LukasFernando/FATEC-API-5_Semestre-Main-Localhost/tree/main).
+No segundo semestre de 2024, a empresa parceira foi [Pro4tech](https://www.pro4tech.com.br/). O problema proposto era desenvolver um programa com dashboards interativo para centralizar e visualizar dados do processo de recrutamento e seleção de uma empresa. Para resolver esse problema, criamos uma aplicação em que cada candidato consegue cadastrar seus dados e acompanhar o processo seletivo para saber se foi aprovado ou não para a vaga. Cada candidatura também recebe um feedback do entrevistador. Para saber mais sobre o projeto visite nosso [Repositório no Github](https://github.com/LukasFernando/FATEC-API-5_Semestre-Main-Localhost/tree/main).
 
 <div> Mockup do projeto </div>
 <details>
@@ -295,16 +295,12 @@ No 5° Semestre as tecnologias usadas foram:
 
 - **Colaboração**  
   - Contribuí com a proposta de salvar um arquivo JSON contendo a estrutura das tabelas, incluindo todas as colunas e seus respectivos tipos de dados, a fim de facilitar o processo de ETL e melhorar a comunicação entre as etapas de desenvolvimento.
-
-- **Adaptação a Novas Ferramentas**  
   - Integração eficaz de tecnologias como GitHub e AWS ao fluxo de trabalho, contribuindo para a implementação de práticas DevOps e otimizando o ciclo de desenvolvimento, incluindo automação de deploys e criação automática de branches.  
 
 -----
 
 ### 6º Semestre - Processo de Recrutamento e Seleção
-No segundo semestre de 2024, a empresa [Kersys](https://kersys.com.br/) solicitou um programa para gerenciamento de reflorestamento, para ter o controle de quantas arvores plantadas, CO2 evitado, entre ouras informações. Para resolver esse problema, criamos uma aplicação para salvar todos os "logs" (dados mensais enviados das empresas que fizeram o reflorestamento) para ter o controle das informações ao longo do tempo, assim com as aanalises pode comparar o inicio e o mes atual, para saber como esta os status das arvores e das areas.
-
-No segundo semestre de 2024, a empresa [Kersys](https://kersys.com.br/) solicitou um programa para o gerenciamento de reflorestamento, com o objetivo de controlar a quantidade de árvores plantadas, o CO₂ evitado, entre outras informações. Para resolver esse problema, criamos uma aplicação capaz de armazenar todos os "logs" (dados mensais enviados pelas empresas responsáveis pelo reflorestamento), permitindo o controle das informações ao longo do tempo. Com essas análises, é possível comparar o início do processo com o mês atual e entender o status das árvores e das áreas reflorestadas. Para saber mais sobre o projeto visite nosso [Repositório no Github](https://github.com/LukasFernando/FATEC-API-5_Semestre-Main-Localhost/tree/main).
+No segundo semestre de 2024, a empresa parceira foi a [Kersys](https://kersys.com.br/). O problema proposto era desenvolver um programa para o gerenciamento de reflorestamento, com o objetivo de controlar a quantidade de árvores plantadas, o CO₂ evitado, entre outras informações. Para resolver esse problema, criamos uma aplicação capaz de armazenar todos os "logs" (dados mensais enviados pelas empresas responsáveis pelo reflorestamento), permitindo o controle das informações ao longo do tempo. Com essas análises, é possível comparar o início do processo com o mês atual e entender o status das árvores e das áreas reflorestadas. Para saber mais sobre o projeto visite nosso [Repositório no Github](https://github.com/LukasFernando/FATEC-API-5_Semestre-Main-Localhost/tree/main).
 
 <div> Mockup do projeto </div>
 <details>
