@@ -2,10 +2,10 @@
 ## Colocar foto
 
 ## Nivel de proficiência:
-Ja ouvi falar
-Sei fazer com ajuda
-Sei fazer sozinho
-Sei ensinar
+Ja ouvi falar     
+Sei fazer com ajuda     
+Sei fazer sozinho     
+Sei ensinar     
 
 ## Introdução
 Meu nome é Lukas, estou cursando Banco de Dados na FATEC. Entrei na FATEC por recomendação e escolhi esse curso Banco de Dados porque era o que possuía mais disciplinas técnicas voltadas para a área de TI. Tenho interesse na área de TI desde o meu primeiro print("Hello World"), quando estava criando minha primeira aplicação em 2021: uma calculadora. A primeira linguagem de programação que aprendi foi Python. Após entender a lógica da programação, iniciei meus estudos em Java.
@@ -235,7 +235,7 @@ No 4° Semestre as tecnologias usadas foram:
 -----
 
 ### 5º Semestre - Processo de Recrutamento e Seleção
-No segundo semestre de 2024, a empresa [Pro4tech](https://www.pro4tech.com.br/) solicitou um programa com dashboards interativo para centralizar e visualizar dados do processo de recrutamento e seleção de uma empresa. Para resolver esse problema, criamos uma aplicação em que cada candidato consegue cadastrar seus dados e acompanhar o processo seletivo para saber se foi aprovado ou não para a vaga. Cada candidatura também recebe um feedback do entrevistador. Para saber mais sobre o projeto visite nosso [Repositório no Github](https://github.com/LukasFernando/FATEC-API-5_Semestre-Main-Localhost/tree/main).
+No segundo semestre de 2024, a empresa parceira foi [Pro4tech](https://www.pro4tech.com.br/). O problema proposto era desenvolverum programa com dashboards interativo para centralizar e visualizar dados do processo de recrutamento e seleção de uma empresa. Para resolver esse problema, criamos uma aplicação em que cada candidato consegue cadastrar seus dados e acompanhar o processo seletivo para saber se foi aprovado ou não para a vaga. Cada candidatura também recebe um feedback do entrevistador. Para saber mais sobre o projeto visite nosso [Repositório no Github](https://github.com/LukasFernando/FATEC-API-5_Semestre-Main-Localhost/tree/main).
 
 <div> Mockup do projeto </div>
 <details>
@@ -261,12 +261,13 @@ No 5° Semestre as tecnologias usadas foram:
   * JWT (JSON Web Tokens)
 
 #### Contribuições Pessoais
-* Docker <details> Aprendi a utilizar o Docker para containerizar as aplicações do projeto, o que melhorou a consistência e a portabilidade do ambiente de desenvolvimento e produção, facilitando a execução em diferentes plataformas e aumentando a eficiência da equipe. </details>
-* GitHub <details> Ao longo do semestre, me aprofundei no uso de ferramentas avançadas do GitHub, como GitHub Packages, GitHub Variables, GitHub Secrets e GitHub Actions. Estas ferramentas foram essenciais para otimizar o fluxo de trabalho, gerenciar variáveis de ambiente de forma segura e automatizar o pipeline de CI/CD. </details>
-* Deploy Automático na AWS <details> Contribuí para a automação do deploy na AWS utilizando Lambda. Utilizando o GitHub Actions, implementei um pipeline de integração contínua para realizar o deploy automático da imagem Docker diretamente na instância Lambda, garantindo uma integração mais rápida e eficiente das novas versões do sistema. </details>
-* Desenvolvimento de Soluções com Python para ETL <details> Colaborei com a equipe trazendo ideias e soluções para o processo de ETL do sistema, utilizando Python. Contribuí para otimizar o fluxo de dados, garantindo maior eficiência e escalabilidade no processamento. </details>
-* Gestão Ágil e Facilitador de Scrum <details> Como Scrum Master, fui responsável por facilitar a comunicação entre os membros da equipe, removendo obstáculos que impediam o progresso. Promovi reuniões diárias de standups, planos de sprints e retrospectivas, o que contribuiu para melhorar a eficiência do time e garantir que entregássemos os marcos do projeto no tempo estipulado. </details>
-* Novas Ferramentas: Jira e GitHub <details> Durante o segundo semestre de 2024, explorei e me familiarizei com diversas ferramentas que se tornaram essenciais para o meu trabalho como Desenvolvedor. Aprofundei meu conhecimento no GitHub e Jira, utilizando para acompanhar o desenvolvimento das outras pessoas e evitando conflitos de versões do projeto por meio da comunicação com a equipe de desenvolvimento de maneira mais eficaz. </details>
+* Deploy Automático na AWS com Docker. <details> Aprendi a utilizar Docker para containerizar as aplicações, o que trouxe mais consistência e portabilidade entre os ambientes. Contribuí para a automação do deploy na AWS Lambda, criando um pipeline com GitHub Actions que envia automaticamente a imagem Docker para a instância, agilizando e padronizando as entregas. </details>
+
+* Desenvolvimento de Soluções com Python para ETL. <details> Colaborei com a equipe trazendo ideias e soluções para o processo de ETL do sistema, utilizando Python. Contribuí para otimizar o fluxo de dados, garantindo maior eficiência e escalabilidade no processamento. </details>
+
+* Gestão Ágil e Facilitador de Scrum. <details> Como Scrum Master, fui responsável por facilitar a comunicação entre os membros da equipe, removendo obstáculos que impediam o progresso. Promovi reuniões diárias de standups, planos de sprints e retrospectivas, o que contribuiu para melhorar a eficiência do time e garantir que entregássemos os marcos do projeto no tempo estipulado. </details>
+
+* Jira e GitHub. <details> Explorei e me familiarizei com diversas ferramentas que se tornaram essenciais para o meu trabalho como Desenvolvedor. Aprofundei meu conhecimento no GitHub e Jira, utilizando para acompanhar o desenvolvimento das outras pessoas e evitando conflitos de versões do projeto por meio da comunicação com a equipe de desenvolvimento de maneira mais eficaz. No GitHub, eu me aprofundei no uso de ferramentas avançadas, como GitHub Packages, GitHub Variables, GitHub Secrets e GitHub Actions. Utilizei estas ferramentas para otimizar o fluxo de trabalho, gerenciar variáveis de ambiente de forma segura e automatizar o pipeline de CI/CD. </details>
 
 ##### Diagrama MER   
 <details>
@@ -277,29 +278,22 @@ No 5° Semestre as tecnologias usadas foram:
 
 ### Hard Skills
 - **Docker**  
-  - Containerização das aplicações para maior consistência entre ambientes de desenvolvimento e produção.  
-  - Facilidade de execução em diferentes plataformas.
+  - Containerização das aplicações para maior consistência entre ambientes de desenvolvimento e produção. Nivel de proficiência: `Sei fazer sozinho`.
 
 - **GitHub Avançado**  
-  - Uso de GitHub Packages, GitHub Variables, GitHub Secrets e GitHub Actions.  
-  - Automação do pipeline de CI/CD e gerenciamento seguro de variáveis de ambiente.
+  - Uso de GitHub Packages, GitHub Variables, GitHub Secrets e GitHub Actions para automação do pipeline de CI/CD e deploy automático. Nivel de proficiência: `Sei fazer sozinho`.
 
 - **AWS Lambda e Integração Contínua**  
-  - Implementação de pipelines de deploy automático com GitHub Actions.  
-  - Integração ágil e eficiente de novas versões do sistema.
-
-- **Python e ETL**  
-  - Desenvolvimento de soluções para automação e otimização do processo de ETL.  
-  - Aumento da eficiência e escalabilidade no fluxo de dados.
+  - Implementação de pipelines de deploy automático com GitHub Actions. Nivel de proficiência: `Sei fazer sozinho`.
 
 - **Gerenciamento de Projetos**  
-  - Uso de ferramentas como Jira e GitHub para comunicação, organização e versionamento de código.
+  - Uso de ferramentas como Jira e GitHub para comunicação, organização e versionamento de código. Nivel de proficiência: `Sei fazer sozinho`.
 
 ### Soft Skills
-- **Scrum Master**  
-  - Facilitação da comunicação e organização da equipe com reuniões diárias, planejamentos de sprint e retrospectivas.  
+- **Comunicação**  
+  - Facilitação da comunicação e organização da equipe, como as reuniões diárias, planejamentos de sprint e retrospectivas.
 
-- **Comunicação e Colaboração**  
+- **Colaboração**  
   - Contribuí com a proposta de salvar um arquivo JSON contendo a estrutura das tabelas, incluindo todas as colunas e seus respectivos tipos de dados, a fim de facilitar o processo de ETL e melhorar a comunicação entre as etapas de desenvolvimento.
 
 - **Adaptação a Novas Ferramentas**  
