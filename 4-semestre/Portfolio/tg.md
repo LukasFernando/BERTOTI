@@ -16,12 +16,26 @@ Meu nome é Lukas, estou cursando Banco de Dados na FATEC. Entrei na FATEC por r
 
 ## Meus Principais Conhecimentos
 No momento, meus conhecimentos desenvolvidos na FATEC são:
+##### **Back End** 
 * Python
 * Java
+##### **Front End** 
+* React
+* Vite
+* Ant Design
 * HTML
 * CSS
-* SQL
-* NoSQL
+* TypeScript
+* Chart.js
+##### **Banco de Dados** 
+* MySQL
+* PostgreSQL
+* SQLite
+* MongoDB
+##### **Security** 
+* JWT (JSON Web Tokens)
+##### **Cloud** 
+* AWS
 
 ## Portfolio
 ### 1º Semestre - Controle de Jornada
@@ -325,7 +339,7 @@ No 6° Semestre as tecnologias usadas foram:
   * HTML
   * CSS
   * TypeScript
-  * Charts
+  * Chart.js
 ##### **Banco de Dados** 
   * PostgreSQL
   * SQLite
