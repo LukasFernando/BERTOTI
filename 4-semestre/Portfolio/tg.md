@@ -20,12 +20,13 @@ No momento, meus conhecimentos desenvolvidos na FATEC são:
 * Python
 * Java
 ##### **Front End** 
+* JavaScript
+* TypeScript
 * React
 * Vite
 * Ant Design
 * HTML
 * CSS
-* TypeScript
 * Chart.js
 ##### **Banco de Dados** 
 * MySQL
