@@ -378,3 +378,4 @@ Neste semestre, atuei como desenvolvedor.
 ### Soft Skills
 - **Colaboração**  
   - Participei ativamente de reuniões de planejamento e sprints, contribuindo com sugestões de gráficos e soluções técnicas para a API, como formas de realizar o upload de arquivos CSV utilizando DataFrame do Pandas.
+  - Sugeri alguns templates e gráficos para adicionar ao relatório em PDF, para que o usuário possa baixar as informações de suas áreas para análise.
