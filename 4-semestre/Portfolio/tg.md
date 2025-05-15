@@ -168,9 +168,7 @@ Neste semestre, atuei como PO (Product Owner).
 
 ### Soft Skills
 - **Comunicação**  
-  - Escuta ativa para entender necessidades e preocupações da equipe de desenvolvimento e clientes.
-
-- **Colaboração**  
+  - Me comuniquei melhor com a equipe e os clientes, mantendo ambos cientes do progresso do projeto. Por exemplo, enviei fotos de alguns gráficos para obter o feedback do cliente, a fim de entender se estava claro o que o gráfico queria transmitir. Após o feedback, conversei com o time e criei tasks para realizar as alterações sugeridas pelo cliente.
   - Criei alguns mockups para sugerir ao time de desenvolvimento algumas ideias de como poderiam ser as telas, como a de lançamento de horas extras.
 
 -----
@@ -248,7 +246,7 @@ Neste semestre, atuei como desenvolvedor.
   - Realização de requisições JavaScript para o backend Java. Nivel de proficiência: `Sei fazer sozinho`.
 
 ### Soft Skills
-- **Colaboração**  
+- **Comunicação**  
   - Contribuí com a ideia de fixar a quantidade de meses exibidos em alguns gráficos, permitindo que o usuário escolha entre 1, 2, 3, 6 ou 12 meses, o que tornou a visualização mais simples e intuitiva.
 
 -----
@@ -311,10 +309,9 @@ Neste semestre, atuei como Scrum Master.
 
 ### Soft Skills
 - **Comunicação**  
-  - Facilitação da comunicação e organização da equipe, como as reuniões diárias, planejamentos de sprint e retrospectivas.
-
-- **Colaboração**  
+  - Sugeri que a forma de avaliação do grupo fosse presencial, em que cada um diria a nota do colega e o motivo, proporcionando um feedback individual sobre a sprint.
   - Contribuí com a proposta de salvar um arquivo JSON contendo a estrutura das tabelas, incluindo todas as colunas e seus respectivos tipos de dados, a fim de facilitar o processo de ETL e melhorar a comunicação entre as etapas de desenvolvimento.
+- **Resolução de Problemas**  
   - Integração eficaz de tecnologias como GitHub e AWS ao fluxo de trabalho, contribuindo para a implementação de práticas DevOps e otimizando o ciclo de desenvolvimento, incluindo automação de deploys e criação automática de branches.  
 
 -----
