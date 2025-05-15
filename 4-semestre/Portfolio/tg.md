@@ -52,6 +52,7 @@ No 1° Semestre as tecnologias usadas foram:
   * JavaScript
 
 #### Contribuições Pessoais
+Neste semestre, eu fui desenvolvedor.
 * Utilização de Python e suas bibliotecas. <details> Aprimorei minhas habilidades em Python e em algumas bibliotecas, como `hashlib`, `json`, `findall`, `eel`, entre outras. Utilizei essas bibliotecas para a criptografia de senhas de usuários (`hashlib`), integração entre Python e JavaScript (`eel`), entre outras aplicações. </details>
 * JavaScript e HTML. <details> Aprendi JavaScript e HTML, e com esse aprendizado consegui ajudar meus colegas no desenvolvimento das telas de cadastro e dos botões, e ajudei também quando o tinha erro na lógica do frontend. </details>
 * JSON para armazenar dados. <details> Aprendi a utilizar JSON para armazenar os dados gerados pela aplicação, como, por exemplo, informações de usuários, avaliações, equipes, entre outros. </details>
@@ -92,6 +93,7 @@ No 2° Semestre as tecnologias usadas foram:
   * MySQL
 
 #### Contribuições Pessoais
+Neste semestre, eu fui desenvolvedor.
 * Utilização do banco de dados com Java. <details> Aprendi a linguagem de programação Java, compreendendo sua sintaxe, estrutura e tópicos como programação orientada a objetos. Com esse aprendizado consegui desenvolver algumas funcionalidades, como por exemplo a lógica de lançar uma hora extra e salvar no banco de dados MySQL. </details>
 * Utilização e organização do JavaFX. <details> Conheci o JavaFX, uma biblioteca para desenvolvimento de interfaces gráficas. Aprendi a criar e apliquei no software alguns componentes de interface de usuário, como botões, tabelas e formulários, além de entender a arquitetura de aplicativos JavaFX, que inclui o uso de controladores. </details>
 * Utilização do banco de dados com Java. <details> Utilizei o banco de dados MySQL para armazenar dados do aplicativo desenvolvido. Aprendi a estabelecer conexões entre Java e o MySQL, utilizando JDBC para executar consultas SQL. Trabalhei com operações CRUD (Create, Read, Update, Delete), o que me permitiu manipular eficientemente os dados, como por exemplo salvar as horas extras, editar os dados do usuário e excluir o usuário. </details>
@@ -143,6 +145,7 @@ No 3° Semestre as tecnologias usadas foram:
   * JWT (JSON Web Tokens)
     
 #### Contribuições Pessoais
+Neste semestre, eu fui PO (Product Owner).
 * Utilização do Spring Boot com Java e MySQL. <details> Explorei as funcionalidades do Spring Boot em conjunto com Java e MySQL. O Spring Boot oferece uma estrutura poderosa para o desenvolvimento rápido de aplicações, facilitando a configuração e o gerenciamento de dependências. Com o suporte integrado ao MySQL, pude desenvolver funcionalidades como a parametrização, calculando o valor total das horas extras de um determinado funcionário. </details>
 * Comunicação. <details> Aprimorei minhas habilidades de comunicação. Reconheci a importância de transmitir informações de maneira clara, concisa e eficaz, tanto dentro da equipe de desenvolvimento quanto para os clientes. Aprendi a ouvir ativamente as necessidades e preocupações de todos os envolvidos no projeto, facilitando o entendimento do time de desenvolvimento ao adicionar uma descrição clara sobre as regras de negócio nas User Stories e Tasks. </details>
 * Novas ferramentas, por exemplo Figma, Canva, Jira e GitHub. <details> Explorei e me familiarizei com diversas ferramentas que se tornaram essenciais para o meu trabalho como Product Owner. No campo do design e prototipagem, adotei o Figma e o Canva, permitindo-me criar wireframes e mockups das telas do aplicativo de forma mais eficiente e colaborativa. Além disso, aprofundei meu conhecimento em ferramentas de gerenciamento de projetos, como Jira e GitHub, utilizando-as para acompanhar o progresso das tarefas, gerenciar o backlog e colaborar com a equipe de desenvolvimento de maneira mais eficaz. </details>
@@ -222,6 +225,7 @@ No 4° Semestre as tecnologias usadas foram:
   * JWT (JSON Web Tokens)
     
 #### Contribuições Pessoais
+Neste semestre, eu fui desenvolvedor.
 * Desenvolvimento com Java, JPA, Spring Boot e MySQL. <details> Aprimorei minhas habilidades no desenvolvimento de projetos utilizando Java, JPA e Spring Boot. Trabalhei com componentes do JPA, como Entity, Repository, DTO e Service, além de refinar a organização da estrutura de pastas, o que facilitou a manutenção e evolução do código. No contexto do Spring Boot, explorei sua integração com Java e MySQL, aproveitando a estrutura para desenvolver aplicações web ágeis e escaláveis, contribuindo diretamente para a construção de endpoints REST, como por exemplo um que retorna a quantidade de certificações dos últimos meses. </details>
 * Desenvolvimento com Vue.js e integração com backend em Java. <details> Utilizei o Vue.js para criar interfaces dinâmicas e bem organizadas, explorando componentes e Vue Router. Trabalhei também na integração com o backend em Java, usando Spring Boot para construir a API que permitisse a comunicação entre frontend e banco de dados. Um exemplo foi o desenvolvimento de um gráfico com a quantidade de certificações dos últimos meses, consumindo dados da API e exibindo-os na interface. </details>
 
@@ -276,6 +280,7 @@ No 5° Semestre as tecnologias usadas foram:
   * JWT (JSON Web Tokens)
 
 #### Contribuições Pessoais
+Neste semestre, eu fui Scrum Master.
 * Deploy Automático na AWS com Docker. <details> Aprendi a utilizar Docker para containerizar as aplicações, o que trouxe mais consistência e portabilidade entre os ambientes. Contribuí para a automação do deploy na AWS Lambda, criando um pipeline com GitHub Actions que envia automaticamente a imagem Docker para a instância, agilizando e padronizando as entregas. </details>
 
 * Desenvolvimento de Soluções com Python para ETL. <details> Colaborei com a equipe trazendo ideias e soluções para o processo de ETL do sistema, utilizando Python. Contribuí para otimizar o fluxo de dados, garantindo maior eficiência e escalabilidade no processamento. </details>
@@ -349,6 +354,7 @@ No 6° Semestre as tecnologias usadas foram:
   * JWT (JSON Web Tokens)
 
 #### Contribuições Pessoais
+Neste semestre, eu fui desenvolvedor.
 * Aprimoramento em Python. <details> Aprofundei meus conhecimentos em Python desenvolvendo APIs com o framework Flask. Trabalhei na integração dessas APIs com bancos de dados relacionais (PostgreSQL) e não relacionais (MongoDB), utilizando containers Docker para garantir portabilidade e escalabilidade do ambiente. </details>
 * LGPD e Portabilidade de Dados. <details> Implementei uma API responsável por garantir a portabilidade dos dados do usuário, em conformidade com a LGPD. Essa API permite que os usuários reutilizem suas informações armazenadas na API principal do projeto, reforçando o compromisso com a privacidade e a segurança dos dados. Além disso, utilizei técnicas de criptografia simétrica e assimétrica para proteger os dados sensíveis. Os dados são criptografados com uma chave simétrica e, em seguida, essa chave é criptografada com a chave pública da API requisitante. Isso garante que apenas a API de destino consiga descriptografar e acessar as informações, promovendo confidencialidade e segurança ponta-a-ponta durante o processo de portabilidade. </details>
 * Criptografia aplicada à proteção de dados. <details> Implementei uma solução de segurança baseada em criptografia híbrida para o processo de portabilidade de dados. A criptografia simétrica (AES) foi utilizada para proteger os dados do usuário, enquanto a chave usada nesse processo foi protegida com criptografia assimétrica (RSA), utilizando a chave pública da API requisitante. Essa abordagem garantiu segurança no transporte e acesso restrito às informações sensíveis, reforçando os princípios da LGPD e demonstrando a aplicação prática de técnicas de criptografia avançadas no contexto de APIs. </details>
