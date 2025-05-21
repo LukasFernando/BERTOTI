@@ -115,7 +115,7 @@ Neste semestre, atuei como desenvolvedor.
 -----
 
 ### 3º Semestre - Controle de Jornada
-No segundo semestre de 2023, a empresa a empresa parceira foi [2RP](https://2rpnet.com.br/). O problema proposto era conseguir controlar as horas extras e sobreaviso dos funcionários de uma maneira facil, online e com várias funcionalidades, como adicionar usuários e registrar horas extras e sobreaviso. Dessa forma, a empresa [2RP](https://2rpnet.com.br/) teria uma melhor visibilidade das horas extras e sobreaviso de seus funcionários. Para resolver esse problema, desenvolvemos um aplicativo web para gerenciar as horas extras e sobreaviso dos funcionários, no qual o funcionário registra suas horas, e o gerente, além de aprovar, pode visualizar as horas extras de seus subordinados. Para saber mais sobre o projeto visite nosso [Repositório no Github](https://github.com/LukasFernando/FATEC-API-2_Semestre-Dragon).
+No segundo semestre de 2023, a empresa a empresa parceira foi a mesma que do semestre anterior, a [2RP](https://2rpnet.com.br/). O problema proposto era o mesmo, com a adição da necessidade de ser acessado online. Para resolver esse problema, utilizamos as mesmas regras do projeto anterior, com a adaptação de permitir que o projeto fosse acessado via web. Para saber mais sobre o projeto visite nosso [Repositório no Github](https://github.com/LukasFernando/FATEC-API-2_Semestre-Dragon).
 
 <div> Mockup do projeto </div>
 <details>
@@ -229,12 +229,12 @@ Neste semestre, atuei como desenvolvedor.
 
 ### Soft Skills
 - **Comunicação**  
-  - Contribuí com a ideia de fixar a quantidade de meses exibidos em alguns gráficos, permitindo que o usuário escolha entre 1, 2, 3, 6 ou 12 meses, o que tornou a visualização mais simples e intuitiva.
+  - Durante a criação dos graficos tivemos um problema de facilidade de filtrar os dados dos graficos. Para melhorar a experiencia do usuario sujeri que a quantidade de meses exibidos em alguns gráficos fosse fixa, permitindo que o usuário escolha entre 1, 2, 3, 6 ou 12 meses, o que tornou a visualização mais simples e intuitiva.
 
 -----
 
 ### 5º Semestre - Processo de Recrutamento e Seleção
-No segundo semestre de 2024, a empresa parceira foi [Pro4tech](https://www.pro4tech.com.br/). O problema proposto era a dificuldade de centralizar e visualizar dados do processo de recrutamento e seleção de uma empresa de uma maneira facil e rapida. Para resolver esse problema, criamos uma aplicação com alguns dashboards interativo onde cada candidato consegue cadastrar seus dados e acompanhar o processo seletivo para saber se foi aprovado ou não para a vaga. Cada candidatura também recebe um feedback do entrevistador. Para saber mais sobre o projeto visite nosso [Repositório no Github](https://github.com/LukasFernando/FATEC-API-5_Semestre-Main-Localhost/tree/main).
+No segundo semestre de 2024, a empresa parceira foi [Pro4tech](https://www.pro4tech.com.br/). O problema proposto era a dificuldade de centralizar e visualizar dados do processo de recrutamento e seleção de uma empresa de uma maneira facil e rapida. Para resolver esse problema, criamos uma aplicação com alguns dashboards interativos onde cada candidato consegue cadastrar seus dados e acompanhar o processo seletivo para saber se foi aprovado ou não para a vaga. Cada candidatura também recebe um feedback do entrevistador. Para saber mais sobre o projeto visite nosso [Repositório no Github](https://github.com/LukasFernando/FATEC-API-5_Semestre-Main-Localhost/tree/main).
 
 <div> Mockup do projeto </div>
 <details>
