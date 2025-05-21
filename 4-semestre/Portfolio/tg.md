@@ -115,8 +115,8 @@ Neste semestre, atuei como desenvolvedor.
   - Escrita de consultas SQL eficientes. Nivel de proficiência: `Sei fazer sozinho`.
 
 ### Soft Skills
-- **?????**  
-  - ?????
+- **Comunicação**  
+  - Durante a nossa reunião para criar o diagrama MER, fiz algumas sugestões, como nomes para as tabelas e colunas, para que tivessem nomes mais sugestivos. Também ajudei a definir as notações de cardinalidade.
 
 -----
 
