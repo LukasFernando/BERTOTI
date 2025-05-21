@@ -291,10 +291,8 @@ Neste semestre, atuei como Scrum Master.
 
 ### Soft Skills
 - **Comunicação**  
-  - Sugeri que a forma de avaliação do grupo fosse presencial, em que cada um diria a nota do colega e o motivo, proporcionando um feedback individual sobre a sprint.
-  - Contribuí com a proposta de salvar um arquivo JSON contendo a estrutura das tabelas, incluindo todas as colunas e seus respectivos tipos de dados, a fim de facilitar o processo de ETL e melhorar a comunicação entre as etapas de desenvolvimento.
-- **Resolução de Problemas**  
-  - Integração eficaz de tecnologias como GitHub e AWS ao fluxo de trabalho, contribuindo para a implementação de práticas DevOps e otimizando o ciclo de desenvolvimento, incluindo automação de deploys e criação automática de branches.  
+  - Após a primeira sprint, eu e os outros integrantes do grupo separamos os pontos (a pontuação é uma nota de 0 a 3 para cada integrante, avaliando os critérios: Proatividade, Autonomia, Colaboração e Entrega). No entanto, as notas ficaram muito parecidas. Por isso, para a segunda, terceira e quarta sprints, sugeri que a avaliação do grupo fosse feita presencialmente, em que cada um diria a nota do colega e justificaria sua escolha, proporcionando um feedback individual sobre a sprint.
+  - Durante a segunda sprint, tive a ideia de salvar um arquivo JSON contendo a estrutura das tabelas, incluindo todas as colunas e seus respectivos tipos de dados. O objetivo era tornar o processo de ETL mais flexível, evitando a necessidade de ajustar o código a cada mudança na tabela.
 
 -----
 
@@ -355,6 +353,5 @@ Neste semestre, atuei como desenvolvedor.
   - Garantia de confidencialidade, integridade e segurança ponta-a-ponta no processo de portabilidade de dados. Nivel de proficiência: `Sei fazer sozinho`.
 
 ### Soft Skills
-- **Colaboração**  
-  - Participei ativamente de reuniões de planejamento e sprints, contribuindo com sugestões de gráficos e soluções técnicas para a API, como formas de realizar o upload de arquivos CSV utilizando DataFrame do Pandas.
-  - Sugeri alguns templates e gráficos para adicionar ao relatório em PDF, para que o usuário possa baixar as informações de suas áreas para análise.
+- **Pensamento crítico**  
+  - Durante a última sprint, percebi que o relatório em PDF estava com muito texto e desorganizado, realizei uma análise crítica sobre como poderia melhorar a apresentação dos dados. Identifiquei que, ao adicionar gráficos e criar um template, seria possível tornar a informação mais acessível e visualmente atraente, o que aprimoraria a experiência do usuário e a eficiência na interpretação dos dados.
