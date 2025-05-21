@@ -229,7 +229,7 @@ Neste semestre, atuei como desenvolvedor.
 
 ### Soft Skills
 - **Comunicação**  
-  - Durante a criação dos graficos tivemos um problema de facilidade de filtrar os dados dos graficos. Para melhorar a experiencia do usuario sujeri que a quantidade de meses exibidos em alguns gráficos fosse fixa, permitindo que o usuário escolha entre 1, 2, 3, 6 ou 12 meses, o que tornou a visualização mais simples e intuitiva.
+  - Durante a reunião de planejamento da terceira sprint, estávamos enfrentando um problema com o filtro de alguns gráficos, onde era necessário escolher a data inicial e final para filtrar os dados. Para melhorar a experiência do usuário, sugeri que a quantidade de meses exibidos em alguns gráficos fosse fixa, permitindo que o usuário escolhesse entre 1, 2, 3, 6 ou 12 meses, o que tornou a visualização mais simples e intuitiva.
 
 -----
 
