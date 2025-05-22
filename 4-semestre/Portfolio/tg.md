@@ -67,7 +67,7 @@ Neste semestre, atuei como desenvolvedor.
 -----
 
 ### 2º Semestre - Controle de Jornada
-No primeiro semestre de 2023, a empresa a empresa parceira foi [2RP](https://2rpnet.com.br/). O problema proposto era conseguir controlar as horas extras e sobreaviso dos funcionários de uma maneira facil e com várias funcionalidades, como adicionar usuários e registrar horas extras e sobreaviso. Dessa forma, a empresa [2RP](https://2rpnet.com.br/) teria uma melhor visibilidade das horas extras e sobreaviso de seus funcionários. Para resolver esse problema, desenvolvemos um software desktop para gerenciar as horas extras e sobreaviso dos funcionários, no qual o funcionário registra suas horas, e o gerente, além de aprovar, pode visualizar as horas extras de seus subordinados. Para saber mais sobre o projeto visite nosso [Repositório no Github](https://github.com/LukasFernando/FATEC-API-2_Semestre-Dragon).
+No primeiro semestre de 2023, a empresa parceira foi [2RP](https://2rpnet.com.br/). O problema proposto era conseguir controlar as horas extras e sobreaviso dos funcionários de uma maneira facil e com várias funcionalidades, como adicionar usuários e registrar horas extras e sobreaviso. Dessa forma, a empresa [2RP](https://2rpnet.com.br/) teria uma melhor visibilidade das horas extras e sobreaviso de seus funcionários. Para resolver esse problema, desenvolvemos um software desktop para gerenciar as horas extras e sobreaviso dos funcionários, no qual o funcionário registra suas horas, e o gerente, além de aprovar, pode visualizar as horas extras de seus subordinados. Para saber mais sobre o projeto visite nosso [Repositório no Github](https://github.com/LukasFernando/FATEC-API-2_Semestre-Dragon).
 
 <div> Mockup do projeto </div>
 <details>
@@ -115,7 +115,7 @@ Neste semestre, atuei como desenvolvedor.
 -----
 
 ### 3º Semestre - Controle de Jornada
-No segundo semestre de 2023, a empresa a empresa parceira foi a mesma que do semestre anterior, a [2RP](https://2rpnet.com.br/). O problema proposto era o mesmo, com a adição da necessidade de ser acessado online. Para resolver esse problema, utilizamos as mesmas regras do projeto anterior, com a adaptação de permitir que o projeto fosse acessado via web. Para saber mais sobre o projeto visite nosso [Repositório no Github](https://github.com/LukasFernando/FATEC-API-2_Semestre-Dragon).
+No segundo semestre de 2023, a empresa parceira foi a mesma que do semestre anterior, a [2RP](https://2rpnet.com.br/). O problema proposto era o mesmo, com a adição da necessidade de ser acessado online. Para resolver esse problema, utilizamos as mesmas regras do projeto anterior, com a adaptação de permitir que o projeto fosse acessado via web. Para saber mais sobre o projeto visite nosso [Repositório no Github](https://github.com/LukasFernando/FATEC-API-2_Semestre-Dragon).
 
 <div> Mockup do projeto </div>
 <details>
@@ -163,6 +163,7 @@ Neste semestre, atuei como PO (Product Owner).
 ### Soft Skills
 - **Comunicação**  
   - Me comuniquei melhor com a equipe e os clientes, mantendo ambos cientes do progresso do projeto. Por exemplo, enviei fotos de alguns gráficos para obter o feedback do cliente, a fim de entender se estava claro o que o gráfico queria transmitir. Após o feedback, conversei com o time e criei tasks para realizar as alterações sugeridas pelo cliente.
+- **Proatividade**  
   - Criei alguns mockups para sugerir ao time de desenvolvimento algumas ideias de como poderiam ser as telas, como a de lançamento de horas extras.
 
 -----
