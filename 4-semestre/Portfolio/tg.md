@@ -2,7 +2,7 @@
 ## Colocar foto
 
 ## Introdução
-Meu nome é Lukas, estou cursando Banco de Dados na FATEC. Entrei na FATEC por recomendação e escolhi esse curso Banco de Dados porque era o que possuía mais disciplinas técnicas voltadas para a área de TI. Tenho interesse na área de TI desde o meu primeiro print("Hello World"), quando estava criando minha primeira aplicação em 2021: uma calculadora. A primeira linguagem de programação que aprendi foi Python. Após entender a lógica da programação, iniciei meus estudos em Java. Meus conhecimentos profissionais incluem: Data Analytics (SQL, Python), Cloud (AWS) e Tableau.
+Meu nome é Lukas, estou cursando Banco de Dados na FATEC. Entrei na FATEC por recomendação e escolhi esse curso Banco de Dados porque era o que possuía mais disciplinas técnicas voltadas para a área de TI. Tenho interesse na área de TI desde o meu primeiro print("Hello World"), quando estava criando minha primeira aplicação em 2021: uma calculadora. A primeira linguagem de programação que aprendi foi Python. Após entender a lógica da programação, iniciei meus estudos em Java.
 
 ## Contatos
 * [Github](https://github.com/LukasFernando)
